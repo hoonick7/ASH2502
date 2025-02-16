@@ -1,0 +1,3303 @@
+q_num,q_select,q_vote,q_win,index,model,original_dish,variation,generated_recipe
+1,1,6,1,802,gemma2:9b,Fried Rice,Korean,"## Korean-Style Fried Rice (Kimchi Bokkeumbap)
+
+**Ingredients:**
+
+* 2 cups cooked white rice, preferably day-old and chilled
+* 1/2 cup kimchi, chopped
+* 1/4 cup kimchi juice
+* 1 tablespoon vegetable oil
+* 1 small onion, thinly sliced
+* 2 cloves garlic, minced
+* 1 large egg, beaten
+* 2 tablespoons soy sauce
+* 1 teaspoon sesame oil
+* 1/2 teaspoon gochujang (Korean chili paste), optional for spiciness
+* 1 green onion, thinly sliced for garnish
+* Sesame seeds for garnish
+
+**Instructions:**
+
+1. Heat the vegetable oil in a large skillet or wok over medium-high heat. Add the onion and garlic and sauté until softened, about 3 minutes.
+2. Push the onion and garlic to one side of the skillet. Pour the beaten egg into the empty space and scramble until cooked through.
+3. Add the chopped kimchi and kimchi juice to the skillet and cook for 2-3 minutes, stirring occasionally.
+4. Add the cooked rice to the skillet and break up any large clumps. Stir fry for 5-7 minutes, or until the rice is heated through and slightly crispy on the edges.
+5. Season with soy sauce, sesame oil, and gochujang (if using) to taste. Continue stirring for another minute.
+6. Garnish with sliced green onion and sesame seeds before serving.
+
+
+Enjoy your delicious Korean-style fried rice!"
+1,2,4,1,1602,mistral:7b,Fried Rice,Korean," Sure! Here's a Korean-style Fried Rice recipe:
+
+ingredients:
+- 3 cups cooked rice (preferably day old as fresh rice can become mushy)
+- 2 tablespoons vegetable oil
+- 1 small onion, finely chopped
+- 1 medium carrot, julienned
+- 1 red bell pepper, sliced
+- 1 cup cooked and cooled rice porridge or kimchi for moisture and flavor
+- 3 cloves garlic, minced
+- 1 cup cooked and shredded chicken or vegetarian alternative (optional)
+- 2 green onions, thinly sliced
+- 2 tablespoons soy sauce or to taste
+- 1 teaspoon sesame oil
+- Salt and pepper, to taste
+- Optional garnishes: sesame seeds, fried shallots, pickled jalapeños
+
+instructions:
+1. Heat a large skillet or wok over medium heat. Add 1 tablespoon vegetable oil and swirl it around.
+2. Once the oil is heated, add the onion and cook until softened, about 3 minutes.
+3. Push the onion to one side of the pan and add another tablespoon of oil in the empty space. Add the carrot and bell pepper, stir-fry for 3 minutes until slightly tender. Remove both from the pan and set aside.
+4. In the same pan, add the garlic and cook until fragrant.
+5. Add the rice to the pan, spreading it out evenly, then pour in the soy sauce and sesame oil, distributing them throughout the rice with a spatula.
+6. Stir-fry the rice for about 2 minutes to let the flavors meld together.
+7. If using, add the cooked rice porridge or kimchi to the pan, allowing it to distribute evenly through the rice.
+8. Add any optional ingredients like shredded chicken or cooked vegetables, then gently fold them into the rice.
+9. Season the dish with salt and pepper as needed.
+10. Push the rice to one side of the pan, leaving some empty space on the other side.
+11. Add another tablespoon of oil in the open area. Once hot, add the green onions and cook for about 30 seconds until slightly wilted.
+12. Mix the rice and green onions together.
+13. Serve the Korean-style fried rice with any desired garnishes."
+2,1,1,2,3,gemma2:2b,Fried Rice,Chinese,"## Chinese-Inspired Fried Rice 
+
+This recipe takes classic fried rice and adds a touch of Chinese flavors using ingredients like ginger, scallions, and soy sauce.  
+
+**ingredients:**
+
+* **Rice:** 2 cups cooked white rice (preferably day-old) 
+* **Protein:** 1/2 cup diced cooked chicken or pork (optional), substitute with tofu for vegetarian option
+* **Vegetables:** 
+    * 1 small onion, finely chopped
+    * 1 inch ginger, minced
+    * 1 clove garlic, minced
+    * 1 cup sliced carrots (use other vegetables like broccoli florets, peas, etc.)
+    * 1/4 cup chopped scallions, green parts only for garnish
+* **Flavor:** 
+    * 2 tablespoons soy sauce
+    * 1 tablespoon sesame oil
+    * 1 teaspoon cornstarch mixed with 1 tablespoon water (for thickening)
+    *  Salt and pepper to taste
+
+**instructions:**
+
+1. Heat a large skillet or wok over medium-high heat. Add the sesame oil, then stir in onion and garlic until fragrant, about 30 seconds.
+2. Add the protein (if using) and continue to cook until browned. Remove from the pan and set aside.  
+3. Stir in ginger, carrots, and remaining vegetables. Cook for a few minutes, stirring occasionally, until vegetables are lightly cooked but still retain some crunch.
+4. Pour the cooked rice into the pan with vegetables and protein. 
+5. Toss everything together, breaking up any clumps of rice as you go.  
+6. Add soy sauce, cornstarch mixture, and season generously with salt and pepper to your liking. Continue to stir for a few minutes until evenly coated and heated through.  
+7. Garnish with chopped scallions and serve immediately. 
+
+ **Optional additions:**
+
+* **Eggs:** Scramble an egg in the pan alongside the other vegetables for extra protein.
+* **Other Vegetables:**  Use a variety of your favorite veggies like mushrooms, green beans, or bok choy.
+* **Spices:** Experiment with chili flakes or ground Sichuan peppercorn for some heat and complexity. 
+
+
+Enjoy! 
+"
+2,2,9,2,3203,llama3.1:8b,Fried Rice,Chinese,"Here's a Chinese-inspired Fried Rice recipe:
+
+**Sichuan-Style Kung Pao Fried Rice**
+
+**Ingredients:**
+
+* 3 cups cooked Jasmine rice (preferably day-old rice)
+* 2 tablespoons Szechuan peppercorns, toasted and ground
+* 1 tablespoon soy sauce
+* 1 tablespoon Shaoxing wine (or dry sherry)
+* 1 teaspoon sesame oil
+* 1 small onion, diced
+* 2 cloves garlic, minced
+* 1 cup mixed vegetables (such as carrots, peas, corn)
+* 1 cup cooked chicken or shrimp, diced
+* 2 eggs, beaten
+* Scallions, chopped (for garnish)
+
+**Instructions:**
+
+1. Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.
+2. Add the ground Szechuan peppercorns and stir-fry for 10 seconds to release their aroma.
+3. Add the diced onion and minced garlic, and stir-fry until they are translucent.
+4. Add the mixed vegetables and cooked chicken or shrimp, and stir-fry for 1-2 minutes.
+5. Push the vegetable mixture to one side of the pan.
+6. In the other side of the pan, scramble in the beaten eggs until they are cooked through.
+7. Mix the egg with the vegetable mixture.
+8. Add the soy sauce, Shaoxing wine, and sesame oil to the rice and stir-fry for 2-3 minutes, breaking up any clumps.
+9. Combine the rice mixture with the egg and vegetable mixture, and stir-fry everything together for another 2-3 minutes, until well combined.
+10. Season with salt to taste, and garnish with chopped scallions before serving.
+
+Note: This recipe incorporates elements of Chinese cuisine, such as Szechuan peppercorns, soy sauce, Shaoxing wine, and sesame oil, which add a depth of flavor and aroma reminiscent of traditional Kung Pao dishes."
+3,1,1,2,2432,llama2:13b,Fried Rice,Hindu diet,"
+Sure! Here is a recipe for Fried Rice with elements of Hindu diet cuisine incorporated:
+
+Ingredients:
+
+* 2 cups cooked rice (preferably brown or red rice)
+* 1 cup mixed vegetables (such as carrots, peas, beans, and corn)
+* 1/2 cup diced onions
+* 1/2 cup diced tomatoes
+* 1/4 cup grated ginger
+* 1/4 cup ground cumin
+* 1/4 cup turmeric powder
+* Salt to taste
+* 2 tablespoons vegetable oil
+* 2 eggs, beaten
+* Chopped cilantro for garnish (optional)
+
+Instructions:
+
+1. Heat the oil in a large skillet or wok over medium-high heat.
+2. Add the diced onions and sauté until they are translucent.
+3. Add the mixed vegetables, grated ginger, cumin powder, turmeric powder, salt, and beaten eggs to the skillet. Stir well.
+4. Add the cooked rice to the skillet and stir-fry everything together for about 2-3 minutes, breaking up any clumps of rice with a spatula.
+5. Reduce heat to low and cover the skillet with a lid for another 2-3 minutes, allowing the rice to absorb all the flavors and cook fully.
+6. Remove the lid and stir in the chopped cilantro (if using). Serve hot and enjoy!
+
+This recipe incorporates several elements of Hindu diet cuisine, such as:
+
+* Brown or red rice instead of regular white rice for more fiber and nutrients.
+* Mixed vegetables for a variety of vitamins and minerals.
+* Grated ginger for digestive benefits and flavor.
+* Cumin powder and turmeric powder for anti-inflammatory properties and flavor.
+* Chopped cilantro for a fresh, herby taste (optional).
+
+Note: You can adjust the amount of vegetables, spices, and eggs according to your personal preferences and dietary needs. Additionally, you can use different types of rice, such as basmati or jasmine, for a different flavor and texture."
+3,2,9,2,3232,llama3.1:8b,Fried Rice,Hindu diet,"Here\'s a Hindu-inspired version of Fried Rice, incorporating elements from traditional Indian cuisine:
+
+**Hindu-Style Fried Rice (""Biryani-Rice"")**
+
+This dish combines the Indian love for spices and aromatic flavors with the simplicity of fried rice.
+
+ingredients: 
+* 2 cups cooked basmati rice (preferably day-old)
+* 1 tablespoon ghee or vegetable oil
+* 1 small onion, diced
+* 2 cloves garlic, minced
+* 1 teaspoon grated fresh ginger
+* 1 teaspoon cumin seeds
+* 1/2 teaspoon coriander powder
+* 1/4 teaspoon turmeric
+* 1/4 teaspoon red chili powder (optional)
+* Salt to taste
+* 2 green chilies, slit
+* Chopped cilantro or scallions for garnish
+* 2 eggs, beaten (for egg curry-style addition)
+
+instructions: 
+1. Heat the ghee or oil in a large skillet over medium-high heat.
+2. Add cumin seeds and let them sizzle until fragrant.
+3. Add the diced onion and sauté until lightly browned.
+4. Add minced garlic and grated ginger; cook for another minute.
+5. Mix in coriander powder, turmeric, red chili powder (if using), and salt. Cook for 30 seconds to allow the spices to infuse.
+6. Add the cooked basmati rice to the skillet, breaking up any clumps with a spatula.
+7. Stir-fry the rice mixture for about 5-7 minutes, until it\'s heated through and starting to brown.
+8. Make a well in the center of the rice mixture and pour in the beaten eggs. Scramble them into small pieces as they cook.
+9. Mix the eggs with the rice, breaking up any large clumps.
+10. Stir in chopped cilantro or scallions for garnish.
+11. Serve hot, accompanied by a side of raita (yogurt and cucumber sauce) or a simple green salad.
+
+This Hindu-style Fried Rice combines the Indian love for aromatic spices with the simplicity of fried rice, creating a flavorful and satisfying meal. The addition of eggs gives it a unique twist reminiscent of egg curry dishes from the subcontinent."
+4,1,9,1,833,gemma2:9b,Fried Rice,Islamic diet,"Here's a Halal-friendly Fried Rice recipe, incorporating elements of Islamic diet cuisine:
+
+**Ingredients:**
+
+* 2 cups cooked long grain rice (preferably basmati)
+* 1 tbsp olive oil
+* 1 medium onion, finely chopped
+* 2 cloves garlic, minced
+* 1 inch ginger, grated
+* 1 green bell pepper, diced
+* 1 cup frozen peas and carrots
+* 1/2 cup diced cooked chicken or beef (Halal)
+* 1/4 cup chopped fresh cilantro
+* 2 tbsp soy sauce (ensure Halal certified)
+* 1 tsp turmeric powder
+* 1/2 tsp cumin powder
+* Salt and black pepper to taste
+
+**Instructions:**
+
+1. Heat the olive oil in a large skillet or wok over medium heat. Add the onion, garlic, and ginger and sauté until softened, about 5 minutes.  
+2. Stir in the green bell pepper, peas, and carrots and cook for another 3-4 minutes.
+3. Add the cooked chicken or beef, cilantro, turmeric powder, cumin powder, salt, and black pepper to the skillet. Mix well.
+4. Add the cooked rice to the skillet and gently stir everything together until heated through.  
+5. Pour in the soy sauce and continue to cook for another 2-3 minutes, stirring frequently.
+6. Serve the fried rice hot garnished with additional cilantro if desired.
+
+
+**Halal Considerations:**
+
+* **Meat:** Ensure the chicken or beef used is Halal certified.
+* **Soy Sauce:** Choose a brand of soy sauce that is clearly labeled as Halal. 
+* **Alcohol-Free Cooking Wine:** If you choose to add any wine for flavor, ensure it's alcohol-free and Halal-certified.
+
+
+
+Enjoy your delicious and Halal-friendly Fried Rice!"
+4,2,1,1,1633,mistral:7b,Fried Rice,Islamic diet," ingredients:
+1. Basmati rice (soaked in water for at least 30 minutes) - 4 cups,
+2. Vegetable oil - 2 tablespoons,
+3. Onion (finely chopped) - 1,
+4. Garlic (minced) - 2 cloves,
+5. Ginger (grated) - 1 inch piece,
+6. Green peas (frozen) - 1 cup,
+7. Carrots (chopped into small pieces) - 1 medium,
+8. Bell peppers (cut into small pieces) - 2,
+9. Scallions (sliced) - 3,
+10. Cooked chicken or shrimp (optional) - 2 cups,
+11. Soy sauce - 2 tablespoons,
+12. Salt - to taste,
+13. Water - 1/4 cup,
+14. Corn oil - 1 teaspoon.
+
+instructions:
+1. Cook Basmati rice according to the package instructions and set aside to cool slightly.
+2. Heat vegetable oil in a large skillet over medium heat.
+3. Sauté onion until softened, about 5 minutes.
+4. Add minced garlic and grated ginger; cook for an additional minute.
+5. Stir in green peas, carrots, and bell peppers, cooking until they begin to soften, about 7-10 minutes.
+6. Push vegetables to the side of the skillet and add sliced scallions and cooked chicken or shrimp (if using) to cook through.
+7. In a small bowl, mix together soy sauce and water.
+8. Add cooled cooked Basmati rice to the skillet, stirring gently to combine vegetables, protein, and rice.
+9. Drizzle soy sauce mixture over the rice and vegetable mixture, stirring well to distribute evenly.
+10. Cook for an additional 3 minutes to allow flavors to meld together.
+11. Remove from heat and transfer rice to a serving platter or individual bowls.
+12. Drizzle a little corn oil on top before serving. Enjoy!"
+5,1,5,0,1634,mistral:7b,Fried Rice,Jain diet," Sure! Here's a Jain-friendly Fried Rice recipe:
+
+ingredients:
+- 2 cups cooked basmati rice (preferably soaked and pressure cooked without onion, garlic or ginger)
+- 1 cup mixed vegetables (carrots, peas, corn, beans, bell peppers), blanched
+- 1/4 cup roasted cashews
+- 2 tbsp sesame oil
+- Salt to taste
+- Red chili powder (optional, for those who consume it)
+- A pinch of asafoetida (hing)
+- 2 cups water
+
+instructions:
+1. Heat 1 tbsp sesame oil in a large skillet or wok over medium heat. Add the blanched vegetables and sauté until tender but crisp. Remove from pan and set aside.
+2. In the same pan, add another tablespoon of sesame oil. When hot, add hing and cashews, and roast them until golden brown. Set aside with the vegetables.
+3. Add the cooked rice to the pan and mix well with the oil. Cook for a few minutes to slightly toast the rice.
+4. Add 2 cups of water to the rice and stir gently. Cook for about 5-7 minutes or until most of the water has been absorbed.
+5. Add the roasted vegetables and cashews back into the pan with the rice.
+6. Season the dish with salt, red chili powder (if desired), and mix well.
+7. Serve hot as a main course.
+
+Note: This recipe is suitable for Sattvic Jains who consume root vegetables and legumes. For those following a more strict diet, omit vegetables like carrots and peas. Also, make sure all the ingredients used are free from eggs and meat."
+5,2,5,0,3234,llama3.1:8b,Fried Rice,Jain diet,"Here's a Jain-diet adapted version of Fried Rice:
+
+**Jain-Style Fried Rice**
+
+A vegetarian, egg-free, and garlic-free version of the classic dish.
+
+**ingredients:**
+* 2 cups cooked rice (preferably day-old rice)
+* 1 tablespoon vegetable oil (such as canola or sunflower oil)
+* 1 small onion, finely chopped
+* 2 cloves of lemongrass, minced (or 1 teaspoon lemongrass powder)
+* 1 cup mixed vegetables (such as carrots, peas, corn, and cauliflower)
+* 1 tablespoon soy sauce (make sure it's free from animal-derived ingredients)
+* Salt to taste
+* Fresh cilantro leaves for garnish
+
+**instructions:**
+1. Heat the oil in a large skillet or wok over medium-high heat.
+2. Add the chopped onion and minced lemongrass (or powder) to the pan. Sauté until the onion is translucent, about 3-4 minutes.
+3. Add the mixed vegetables to the pan and stir-fry for another 3-4 minutes, until they're tender-crisp.
+4. Add the cooked rice to the pan, breaking up any clumps with a spatula or spoon.
+5. Mix in the soy sauce and salt, ensuring everything is well combined.
+6. Stir-fry the mixture for about 5 minutes, allowing the rice to heat through and become fluffy.
+7. Remove from heat, garnish with fresh cilantro leaves, and serve hot.
+
+Note: I've avoided using onions as per Jain dietary guidelines, which often recommend avoiding onions and garlic due to their potential to stimulate emotions and desires. Additionally, I've chosen lemongrass over traditional aromatics like ginger or chilies for its mild flavor and fragrance."
+6,1,7,1,1651,mistral:7b,Sandwich,Spanish," ingredients:
+- 2 slices of crusty Spanish bread (Pan de Miga or Mallorca)
+- 3 oz Serrano ham (Jamón Serrano) or chorizo, thinly sliced
+- 1-2 oz Manchego or other Spanish cheese, sliced or shredded
+- 1/4 cup roasted red peppers (Pimientos Rojos Asados)
+- 1 small onion, finely chopped
+- 1 tbsp extra virgin olive oil
+- Salt and pepper to taste
+
+instructions:
+1. Heat a small pan over medium heat and add the olive oil. Once hot, sauté the onions until softened but not browned. Set aside.
+2. Toast the Spanish bread slices until lightly golden and crispy.
+3. Assemble the sandwich: Spread the roasted red peppers on one slice of toasted bread, followed by the ham or chorizo. Top with sautéed onions and cover with cheese.
+4. Place the second slice of toasted bread on top, with the cheese side down.
+5. Cook the sandwich in a panini press or griddle until the cheese is melted and the bread is crispy. If you don't have a press, place a heavy skillet over the sandwich and press it down for a few minutes.
+6. Remove the sandwich from the heat and season with salt and pepper to taste before slicing and serving. Enjoy!"
+6,2,3,1,2451,llama2:13b,Sandwich,Spanish,"
+Sure! Here is a recipe for a Spanish-inspired sandwich:
+
+Ingredients:
+
+* Bread (such as baguette or ciabatta)
+* Jamón ibérico (Spanish cured ham)
+* Manchego cheese (a type of Spanish cheese)
+* Sliced red onion
+* Sliced tomato
+* Olive oil
+* Salt and pepper
+* Optional: lettuce, avocado, or other toppings of your choice
+
+Instructions:
+
+1. Preheat a panini press or grill to medium-high heat.
+2. Lay out two slices of bread on a clean work surface.
+3. Spread a layer of olive oil on each slice of bread.
+4. Place one slice of bread, oiled side down, in the panini press or grill.
+5. Top with a slice of jamón ibérico, a few slices of red onion, and a few slices of tomato.
+6. Sprinkle shredded Manchego cheese over the top of the filling.
+7. Place the second slice of bread, oiled side up, on top of the filling.
+8. Press the sandwich in the panini press or grill for about 3-4 minutes, or until the bread is golden brown and the cheese is melted.
+9. Remove the sandwich from the press or grill and let it cool for a minute or two before serving.
+10. Slice the sandwich in half and serve immediately.
+
+This Spanish-inspired sandwich combines the rich flavors of jamón ibérico, Manchego cheese, and olive oil with the freshness of sliced red onion and tomato. It is a delicious and satisfying meal that is perfect for lunch or as a snack."
+7,1,5,0,1673,mistral:7b,Sandwich,Islamic diet," ingredients:
+- Freshly baked whole grain or multigrain bread (preferably free from additives and preservatives),
+- Grilled chicken or turkey, preferably organically raised and halal,
+- Hummus made with chickpeas, tahini, garlic, lemon juice, and olive oil,
+- Lettuce or other leafy greens,
+- Cucumber, sliced,
+- Tomatoes, sliced,
+- Red onion, thinly sliced,
+- Pickles (preferably unpasteurized and free from artificial additives),
+- Olive oil for brushing the bread.
+
+instructions:
+1. Toast or grill the bread lightly to enhance its flavor. Brush each side with olive oil.
+2. Spread a generous layer of hummus on one side of the bread.
+3. Top with grilled chicken, sliced cucumber, tomatoes, lettuce, red onion, and pickles.
+4. Place the second slice of toasted bread on top, hummus-side down.
+5. Press down gently to compress the sandwich filling.
+6. Serve immediately. Enjoy your wholesome and delicious Islamic diet-compliant sandwich!"
+7,2,5,0,4073,gpt-4o-mini,Sandwich,Islamic diet,"Sure! Here’s a recipe for a delicious and wholesome Islamic-inspired sandwich that adheres to dietary guidelines, including halal ingredients and healthy choices.
+
+**Ingredients:**
+- Whole grain pita bread
+- Grilled chicken breast (halal)
+- Hummus
+- Fresh spinach leaves
+- Sliced cucumber
+- Sliced tomato
+- Sliced red onion
+- Feta cheese (optional)
+- Olive oil
+- Lemon juice
+- Salt
+- Black pepper
+- Fresh parsley (for garnish)
+
+**Instructions:**
+1. Start by seasoning the grilled chicken breast with olive oil, lemon juice, salt, and black pepper. Grill until fully cooked, then slice into thin strips.
+2. Cut the whole grain pita bread in half to create pockets for the filling.
+3. Spread a generous layer of hummus inside each pita pocket.
+4. Fill the pita with fresh spinach leaves, followed by the sliced grilled chicken.
+5. Layer in the sliced cucumber, tomato, and red onion for added crunch and flavor.
+6. If desired, crumble some feta cheese on top of the vegetables.
+7. Drizzle a little olive oil and lemon juice inside the pita for extra flavor.
+8. Garnish with fresh parsley before closing the pita pocket.
+9. Serve the sandwich immediately, or wrap it in parchment paper for a tasty on-the-go meal.
+
+Enjoy your healthy Islamic-inspired sandwich!"
+8,1,3,2,3277,llama3.1:8b,Sandwich,Aztec,"What an intriguing challenge! Aztec cuisine is known for its bold flavors, rich sauces, and use of indigenous ingredients like chilies, corn, and beans. Here's a recipe that combines traditional Aztec flavors with the humble sandwich:
+
+**Tecuani Sandwich (Aztec-Inspired Chicken Mole Sandwich)**
+
+Ingredients:
+<<Corn tortillas>>,
+<<Shredded chicken cooked in a mixture of chipotle peppers, garlic, and oregano>>,
+<<Mole poblano sauce (made with chilies, almonds, raisins, chocolate, and spices)>>,
+<<Sliced radishes>>,
+<<Fresh cilantro>>,
+<<Shredded epazote leaves (or substitute with parsley)>>,
+<<Crumbly queso fresco cheese>>,
+<<Sliced avocado>>.
+
+Instructions:
+1. **Assemble the sandwich**: Lay a corn tortilla flat on a surface, then top it with shredded chicken.
+2. **Add the mole poblano sauce**: Drizzle the rich, spicy mole sauce over the chicken, making sure to cover it evenly.
+3. **Add crunchy texture**: Sprinkle sliced radishes and crumbled queso fresco cheese over the chicken and mole sauce.
+4. **Add fresh herbs**: Place a handful of chopped cilantro and epazote leaves on top of the sandwich.
+5. **Finish with creamy avocado**: Slice an avocado and place it on top of the sandwich, adding a creamy contrast to the bold flavors.
+6. **Fold and serve**: Fold the tortilla in half to enclose the filling, then cut the sandwich in half or into quarters for easier handling.
+
+This Tecuani Sandwich combines traditional Aztec ingredients like mole poblano sauce, chipotle peppers, and epazote leaves with a modern twist on the classic sandwich format. The result is a flavorful, complex dish that showcases the bold flavors of Aztec cuisine."
+8,2,7,2,4077,gpt-4o-mini,Sandwich,Aztec,"Here's a recipe that incorporates elements of Aztec cuisine into a delicious sandwich:
+
+**Ingredients:**
+- 2 slices of whole grain bread (or corn tortillas for a more traditional touch)
+- 1 ripe avocado, mashed
+- 1/2 cup refried black beans
+- 1/2 cup cooked and shredded chicken (marinated in adobo sauce)
+- 1/4 cup queso fresco, crumbled
+- 1/4 cup salsa verde
+- 1/4 cup pickled red onions
+- Fresh cilantro leaves, for garnish
+- Lime wedges, for serving
+- Salt and pepper, to taste
+
+**Instructions:**
+1. If using bread, toast the slices until golden brown. If using corn tortillas, warm them on a skillet until pliable.
+2. Spread a generous layer of mashed avocado on one slice of bread or on one tortilla.
+3. Layer the refried black beans over the avocado, spreading them evenly.
+4. Add the marinated and shredded chicken on top of the beans, ensuring it is well-distributed.
+5. Sprinkle the crumbled queso fresco over the chicken.
+6. Drizzle salsa verde on top, adding as much as desired for flavor.
+7. Add a layer of pickled red onions for tanginess and crunch.
+8. Top with fresh cilantro leaves and season with salt and pepper to taste.
+9. If using bread, place the second slice on top and press down gently. If using tortillas, fold them over to create a taco or wrap.
+10. Serve with lime wedges on the side for an extra burst of flavor. Enjoy your Aztec-inspired sandwich!"
+9,1,5,0,1681,mistral:7b,Soup Noodle,Japanese," ingredients:
+- 400g fresh or dried udon noodles
+- 1 L dashi stock (Japanese fish and seaweed broth)
+- 300g thinly sliced pork belly
+- 150g shiitake mushrooms, stems removed and caps sliced
+- 2 tbsp soy sauce
+- 2 tbsp mirin
+- 1 tbsp sake
+- 4 soft-boiled eggs (for serving)
+- Scallions, thinly sliced, for garnish
+- Pickled ginger, for serving (optional)
+
+instructions:
+1. In a large pot, bring dashi stock to a simmer over medium heat.
+2. Add pork belly slices and shiitake mushrooms. Cook until pork is tender and mushrooms are softened, about 5 minutes.
+3. In a small bowl, whisk together soy sauce, mirin, and sake.
+4. Add soy sauce mixture to pot and stir to combine with broth.
+5. Add udon noodles to pot and cook until softened, about 2-3 minutes if fresh or 7-8 minutes if dried.
+6. Divide soup noodles among serving bowls.
+7. Carefully place a soft-boiled egg in each bowl.
+8. Ladle hot broth over the noodles and toppings.
+9. Garnish with sliced scallions and pickled ginger, if desired.
+10. Serve immediately."
+9,2,5,0,3281,llama3.1:8b,Soup Noodle,Japanese,"Here's a Japanese-inspired version of the classic soup noodle dish:
+
+**Tonkotsu Ramen-Style Soup Noodle (Japanese-Inspired)**
+
+**ingredients:**
+
+* 8 oz Tonkotsu-style pork broth (or substitute with a rich chicken or beef broth)
+* 2 cups ramen noodles (preferably fresh, thin, and curly)
+* 1/4 cup sliced green onions for garnish
+* 1/4 cup thinly sliced pork loin (such as Asuka or Berkshire), cut into bite-sized pieces
+* 2 slices of bacon, diced
+* 2 cloves garlic, minced
+* 1 tablespoon grated fresh ginger
+* 2 tablespoons soy sauce
+* 2 tablespoons sake (Japanese rice wine)
+* 1 tablespoon sugar
+* 1/4 cup pickled ginger slices, for serving
+
+**instructions:**
+
+1. **Prepare the broth**: In a large pot, combine Tonkotsu-style pork broth, soy sauce, sake, and sugar. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for at least 30 minutes to allow the flavors to meld.
+2. **Cook the noodles**: Cook ramen noodles according to package instructions until al dente. Drain and set aside.
+3. **Sauté the pork and bacon**: In a separate pan, cook diced bacon over medium-high heat until crispy. Remove from heat and set aside. Add sliced pork loin and cook until browned on all sides. Set aside with the bacon.
+4. **Prepare the garnishes**: Thinly slice green onions and cut into bite-sized pieces. Slice pickled ginger into thin strips.
+5. **Assemble the soup noodle**: Divide cooked noodles among bowls. Ladle hot broth over the noodles, followed by sliced pork loin and crispy bacon.
+6. **Add finishing touches**: Sprinkle grated ginger on top of each bowl, along with thinly sliced green onions and a few slices of pickled ginger.
+7. **Serve immediately**: Serve hot, with a side of additional pickled ginger slices if desired.
+
+Enjoy your Japanese-inspired Tonkotsu Ramen-Style Soup Noodle!"
+10,1,3,2,1682,mistral:7b,Soup Noodle,Korean," Sure! Here\'s a recipe for a Korean-style Soup Noodle (known as ""Jjamppong"" in Korea). This dish is a popular spicy noodle soup with seafood and vegetables.
+
+ingredients:
+- 8 oz (227g) fresh or dried Korean rice cakes (tteok)
+- 4 cups (950ml) chicken or seafood stock
+- 1 lb (454g) assorted seafood (shrimp, clams, mussels, squid)
+- 2 tbsp (30ml) Korean gochujang chili paste
+- 1 tbsp (15ml) gochugaru (Korean red pepper flakes)
+- 1 tbsp (15ml) Korean doenjang soybean paste
+- 1 tbsp (15ml) vegetable oil
+- 1 onion, sliced
+- 2 garlic cloves, minced
+- 1 carrot, sliced diagonally
+- 1 zucchini, sliced diagonally
+- 1 bell pepper, sliced
+- 3 green onions, sliced
+- 2 tbsp (30g) bean sprouts
+- Salt to taste
+
+instructions:
+1. Cook the rice cakes according to package instructions and set aside.
+2. In a large pot, bring chicken or seafood stock to a simmer over medium heat.
+3. In a separate bowl, mix together gochujang, gochugaru, and doenjang until well combined. Add this mixture to the simmering stock and stir well.
+4. Heat vegetable oil in a pan over medium-high heat. Sauté onion until softened.
+5. Add garlic to the pan and cook for 30 seconds until fragrant.
+6. Transfer the seafood to the pot with the soup, along with carrot and zucchini. Cook until just cooked through.
+7. Add bell pepper to the pan and cook until slightly softened.
+8. Ladle some soup into the pan with the onion, garlic, and vegetables. Add a pinch of salt if needed.
+9. Pour this flavored broth back into the pot with the rest of the soup.
+10. Serve each bowl of noodles topped with rice cakes, seafood, vegetables, green onions, bean sprouts, and a spoonful of the flavored broth. Enjoy!"
+10,2,7,2,3282,llama3.1:8b,Soup Noodle,Korean,"Here\'s a Korean-inspired version of the dish, ""K-Town Soup Noodle"".
+
+**Kimchi Spice-Infused Soup Noodle (K-Town Style)**
+
+This spicy and savory noodle soup combines the comforting goodness of a classic soup noodle with the bold flavors of Korean cuisine. The addition of kimchi spice blend and gochujang (Korean chili paste) gives it an authentic kick.
+
+**Ingredients:**
+
+* 1 package of Japchae-style noodle or thin rice noodles
+* 2 tablespoons Gochujang (Korean chili paste)
+* 1 tablespoon Kimchi Spice Blend
+* 2 cups Chicken broth
+* 1 cup water
+* 1 tablespoon soy sauce
+* 1 teaspoon sesame oil
+* 1 onion, thinly sliced
+* 2 cloves garlic, minced
+* 1 cup kimchi, chopped (store-bought or homemade)
+* 1/4 cup Gochugaru (Korean chili flakes) for added heat
+* Salt and black pepper to taste
+* Sesame seeds and chopped green onions for garnish
+
+**Instructions:**
+
+1. In a large pot, combine the chicken broth, water, soy sauce, sesame oil, onion, and garlic. Bring to a boil over high heat.
+2. Reduce the heat to medium-low and simmer for 10 minutes.
+3. Add the gochujang and kimchi spice blend to the pot and stir well.
+4. Cook the noodles according to the package instructions. Drain and set aside.
+5. In a separate pan, toast some sesame seeds until fragrant and lightly browned.
+6. To assemble the soup noodle, add the cooked noodles to individual bowls. Ladle the hot broth over the noodles.
+7. Top each bowl with chopped kimchi, toasted sesame seeds, and a sprinkle of gochugaru for added heat.
+8. Serve immediately, garnished with green onions if desired.
+
+This K-Town Soup Noodle combines the best of both worlds: a comforting noodle soup with an authentic Korean twist that will leave you wanting more!"
+11,1,6,1,885,gemma2:9b,Soup Noodle,Vietnamese,"## Vietnamese-Style Noodle Soup (Phở)
+
+**Ingredients:**
+
+* **Broth:**
+    * 1 lb beef bones (such as oxtail, shank, or knuckle)
+    * 2 onions, halved
+    * 4 inches ginger, sliced
+    * 3 star anise
+    * 2 cinnamon sticks
+    * 1 tsp black peppercorns
+    * 1 tbsp fish sauce
+    * Salt to taste
+* **Noodles:**
+    * 1 package (14 oz) dried flat rice noodles
+* **Protein:**
+    * 1 lb thinly sliced beef (sirloin, eye round, or brisket)
+    * OR 1 cup cooked chicken, shredded
+    * OR tofu, pressed and sliced
+* **Toppings:**
+    * Fresh bean sprouts
+    * Thai basil leaves
+    * Cilantro leaves
+    * Lime wedges
+    * Hoisin sauce
+    * Sriracha hot sauce
+
+**Instructions:**
+
+1. **Prepare the broth:** In a large stockpot, combine beef bones, onions, ginger, star anise, cinnamon sticks, peppercorns, and 8 cups water. Bring to a boil, then reduce heat to low, cover, and simmer for at least 3 hours, skimming any foam that rises to the surface.
+2. **Strain the broth:** After simmering, remove the beef bones, onions, and spices from the broth using a slotted spoon or strainer. Return the strained broth to the pot and season with fish sauce and salt to taste. 
+3. **Cook the noodles:** While the broth simmers, cook rice noodles according to package instructions. Drain well and set aside.
+4. **Prepare the protein:** If using beef, quickly blanch slices in boiling water for 1 minute per side, then remove and set aside. If using chicken or tofu, no further cooking is required.
+5. **Assemble the bowls:** Divide cooked noodles among serving bowls. Ladle hot broth over noodles. Top with desired protein, bean sprouts, basil leaves, cilantro leaves, and lime wedges. 
+6. **Serve:**  Enjoy your Vietnamese-style Noodle Soup (Phở) with hoisin sauce and sriracha hot sauce on the side for added flavor.
+
+
+"
+11,2,4,1,1685,mistral:7b,Soup Noodle,Vietnamese," ingredients:
+- 400g rice noodles (vermicelli or banh pho)
+- 1.5 L chicken or vegetable broth
+- 300g sliced chicken breast or tofu for vegetarian option
+- 200g sliced mushrooms (shiitake, oyster, or cremini)
+- 2 carrots, thinly sliced
+- 1 onion, thinly sliced
+- 3 cloves garlic, minced
+- 1 inch ginger, sliced
+- 4 tbsp fish sauce (nuoc mam) or soy sauce for vegetarian option
+- 2 tbsp sugar
+- 3 tbsp lime juice
+- 2 tbsp chopped green onions
+- 1 jalapeno pepper, thinly sliced
+- 1 cup bean sprouts
+- 1/4 cup chopped cilantro
+- 1/4 cup roasted peanuts or cashews
+
+instructions:
+1. Soak the rice noodles in cold water for at least 30 minutes until softened. Drain and rinse under cold water. Set aside.
+2. In a large pot, bring the chicken or vegetable broth to a boil. Add sliced chicken (or tofu), mushrooms, carrots, and onion. Cook for about 5 minutes.
+3. In another pan, sauté minced garlic and ginger in oil until fragrant. Add fish sauce (or soy sauce) and sugar to taste. Pour this mixture into the pot with the broth.
+4. Stir in lime juice and bring soup to a simmer. Taste and adjust seasonings as needed.
+5. Ladle hot soup over the drained rice noodles in individual bowls. Top each serving with sliced green onions, jalapeno pepper, bean sprouts, cilantro, roasted peanuts or cashews. Enjoy!"
+12,1,7,1,1730,mistral:7b,Savoury Pie,French," ingredients:
+2 sheets of puff pastry, thawed at room temperature,
+1 lb (450g) ground beef or chicken,
+1 onion, finely chopped,
+2 cloves garlic, minced,
+1/2 cup (120ml) red wine,
+1/2 cup (120ml) beef broth,
+1 tbsp tomato paste,
+1 tbsp olive oil,
+1 tbsp butter,
+1 cup sliced mushrooms,
+1 cup sliced leeks,
+1 cup grated cheese (e.g., Gruyère or Comté),
+2 eggs for egg wash,
+Salt and pepper to taste,
+Thyme or other herbs for garnish
+
+instructions:
+1. Preheat oven to 375°F (190°C). Roll out one sheet of pastry and line a 9-inch pie dish with it. Set aside.
+2. In a pan, heat olive oil over medium heat. Add onions and garlic, cook until softened.
+3. Add ground meat to the pan and brown. Drain excess fat.
+4. Deglaze the pan with red wine and add beef broth. Stir in tomato paste. Let it simmer for 15 minutes. Season with salt and pepper.
+5. In another pan, melt butter over medium heat. Cook mushrooms until tender. Set aside.
+6. Repeat step 5 for leeks.
+7. Spread meat mixture onto the bottom layer of pastry in the pie dish. Top with cooked mushrooms, then grated cheese.
+8. Roll out the second sheet of pastry and cut it into strips for lattice pattern. Place on top of the filling.
+9. Brush egg wash over the lattice, creating an eggwash glaze.
+10. Bake in preheated oven for 35-40 minutes until the crust is golden brown. Let cool for a few minutes before serving.
+11. Garnish with herbs like thyme or rosemary, if desired. Bon appétit!"
+12,2,3,1,2530,llama2:13b,Savoury Pie,French,"
+Sure! Here's a recipe for a savoury pie with elements of French cuisine:
+
+Ingredients:
+
+* 1 sheet of puff pastry, thawed
+* 1 pound ground beef
+* 1 onion, finely chopped
+* 2 cloves garlic, minced
+* 1 cup frozen peas and carrots
+* 1/2 cup all-purpose flour
+* 1/2 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/4 teaspoon ground nutmeg
+* 2 tablespoons butter, melted
+* 2 eggs, beaten (for egg wash)
+
+Instructions:
+
+1. Preheat the oven to 375°F (190°C).
+2. In a large skillet, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks. Drain excess fat.
+3. Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.
+4. Stir in the flour, salt, black pepper, and nutmeg. Cook for 1-2 minutes, until the mixture is fragrant.
+5. Add the frozen peas and carrots to the skillet and cook until they are tender and heated through.
+6. Roll out the puff pastry on a lightly floured surface to a size slightly larger than the top of the pie dish.
+7. Spoon the beef and vegetable mixture into the center of the pastry, leaving a 1-inch border around the edges.
+8. Brush the edges of the pastry with the beaten eggs (for egg wash) and fold the edges over the filling, pressing to seal.
+9. Place the pie on a baking sheet and brush the top with the melted butter.
+10. Bake the pie for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly.
+11. Serve warm, garnished with chopped fresh herbs such as parsley or chives.
+
+Bon appétit!"
+13,1,4,2,1732,mistral:7b,Savoury Pie,British," ingredients:
+1. 500g of assorted savoury fillings such as chicken, mushrooms, onions, carrots, and peas (precooked)
+2. 750g of shortcrust pastry
+3. 2 tbsp of butter
+4. 2 tbsp of flour
+5. 500ml of milk or stock
+6. 1 egg (beaten) for brushing the top of the pie
+7. Salt and pepper to taste
+8. 1 tsp of nutmeg (optional)
+9. 1 tbsp of chopped fresh herbs such as thyme, parsley, or chives
+
+instructions:
+1. Preheat your oven to 200°C/400°F (Gas mark 6).
+2. Roll out the shortcrust pastry on a lightly floured surface and line a pie dish with it, leaving some excess for the lid. Blind bake the bottom crust in the oven for 15 minutes.
+3. While the bottom crust is baking, melt butter over medium heat in a saucepan.
+4. Add flour to the butter and stir constantly until the mixture turns golden brown, about 2 minutes.
+5. Gradually pour milk or stock into the saucepan while continuing to whisk until it thickens into a smooth sauce.
+6. Season the white sauce with salt, pepper, nutmeg (if using), and herbs.
+7. Remove the pie crust from the oven, add savoury fillings, and cover with the sauce.
+8. Roll out the remaining pastry, cut it to size, and place it on top of the filling. Press the edges together to seal.
+9. Brush the top with beaten egg and make a few small slits for steam escape.
+10. Bake the savoury pie in the oven for 30-35 minutes or until the pastry is golden brown.
+11. Allow it to cool slightly before serving. Enjoy your traditional British Savoury Pie!"
+13,2,6,2,2532,llama2:13b,Savoury Pie,British,"
+Sure! Here's a recipe for a savory pie with elements of British cuisine:
+
+Ingredients:
+
+* 1 sheet puff pastry, thawed
+* 1 pound beef or lamb, diced
+* 1 onion, finely chopped
+* 2 cloves garlic, minced
+* 1 cup frozen peas and carrots
+* 1/2 cup all-purpose flour
+* 1/2 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/4 teaspoon ground nutmeg
+* 2 tablespoons butter, melted
+* 2 eggs, beaten (for egg wash)
+
+Instructions:
+
+1. Preheat the oven to 375°F (190°C).
+2. In a large skillet, cook the diced beef or lamb over medium-high heat until browned, about 5 minutes. Drain excess fat.
+3. Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3 minutes.
+4. Stir in the flour, salt, black pepper, and nutmeg to coat the meat and vegetables. Cook for 1-2 minutes.
+5. Add the frozen peas and carrots to the skillet and cook until they are tender and heated through, about 3-4 minutes.
+6. Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch (3 mm). Cut out a piece of pastry large enough to cover the filling.
+7. Spoon the filling into the center of the pastry, leaving a 1-inch (2.5 cm) border around the edges. Brush the edges with the beaten eggs for an egg wash.
+8. Fold the edges of the pastry over the filling, pressing the edges to seal them. Use a fork to crimp the edges and create a decorative pattern.
+9. Brush the top of the pie with the melted butter.
+10. Place the pie on a baking sheet and bake for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly.
+11. Serve the pie hot, garnished with chopped fresh herbs like parsley or chives.
+
+Enjoy your delicious savory pie with elements of British cuisine!"
+14,1,4,2,933,gemma2:9b,Savoury Pie,Irish,"## Irish Savoury Pie
+
+This recipe takes the classic savoury pie concept and infuses it with traditional Irish flavours, resulting in a hearty and comforting meal.
+
+**Ingredients:**
+
+* **For the Filling:**
+    * 500g good quality beef mince
+    * 1 large onion, finely chopped
+    * 2 carrots, diced
+    * 2 celery stalks, diced
+    * 2 cloves garlic, minced
+    * 1 tbsp plain flour
+    * 500ml beef stock
+    * 1 tbsp tomato puree
+    * 1 tsp dried thyme
+    * ½ tsp smoked paprika
+    * ¼ tsp ground black pepper
+    * Pinch of cayenne pepper (optional)
+    * 2 sprigs fresh rosemary, chopped
+    * 1 tbsp butter
+
+* **For the Pastry:**
+    * 300g plain flour
+    * 1 tsp salt
+    * 150g cold unsalted butter, cubed
+    * 6-8 tbsp cold water
+  
+* **Optional Toppings:**
+    * Milk for glazing
+    * Flaky sea salt
+
+**Instructions:**
+
+1. **Prepare the filling:** In a large saucepan or Dutch oven, melt the butter over medium heat. Add the beef mince and cook until browned, breaking it up with a spoon. 
+2. Remove the mince from the pan and set aside. Add the onion, carrots, and celery to the pan and sauté for about 5 minutes, until softened. Stir in the garlic, flour, and cook for another minute.
+3. Gradually whisk in the beef stock, tomato puree, thyme, smoked paprika, black pepper, cayenne (if using), and chopped rosemary. Bring to a simmer, scraping up any browned bits from the bottom of the pan. 
+4. Return the cooked beef mince to the pan and stir to combine. Reduce heat to low, cover, and simmer for at least 30 minutes, or until the sauce has thickened and the beef is tender. Taste and adjust seasoning as needed.
+5. **Make the pastry:** While the filling simmers, pulse flour and salt together in a food processor. Add the cold butter cubes and pulse until the mixture resembles coarse crumbs. Gradually add the cold water, pulsing until the dough just comes together (do not overwork). Form into a disc, wrap in plastic wrap, and refrigerate for at least 30 minutes.
+6. **Assemble and bake:** Preheat oven to 180°C (fan 160°C/gas mark 4). Roll out half the pastry dough on a lightly floured surface to a circle slightly larger than your pie dish. Transfer the pastry to the dish, pressing it gently into the bottom and sides.
+7. Pour the hot beef filling into the pastry-lined dish. Roll out the remaining pastry and cut into strips or shapes for a lattice top (or cover completely with a single sheet). Crimp the edges of the pastry together to seal. Brush the top with milk and sprinkle with flaky sea salt.
+8. Bake for 40-50 minutes, or until the pastry is golden brown and the filling is bubbling hot. Allow the pie to cool slightly before serving.
+
+
+Enjoy your delicious Irish Savoury Pie!"
+14,2,6,2,2533,llama2:13b,Savoury Pie,Irish,"
+Sure! Here is a recipe for a savory pie with elements of Irish cuisine:
+
+Ingredients:
+
+* 1 sheet puff pastry, thawed
+* 1 pound beef or lamb, diced
+* 1 onion, finely chopped
+* 2 cloves garlic, minced
+* 1 cup mixed mushrooms (such as button, cremini, and shiitake)
+* 1/2 cup frozen peas and carrots
+* 1/2 cup cheddar cheese, grated
+* 1/4 cup all-purpose flour
+* 1/2 teaspoon salt
+* 1/4 teaspoon black pepper
+* 2 tablespoons butter, melted
+* 2 eggs, beaten (for brushing pastry)
+
+Instructions:
+
+1. Preheat oven to 375°F (190°C).
+2. In a large skillet, cook the diced beef or lamb over medium-high heat until browned, about 5 minutes. Remove from heat and set aside.
+3. Add chopped onion and minced garlic to the skillet and cook until softened, about 3 minutes.
+4. Add mixed mushrooms, frozen peas and carrots, cheddar cheese, flour, salt, and black pepper to the skillet. Cook for 2-3 minutes or until the vegetables are tender and the cheese is melted.
+5. Roll out the puff pastry on a lightly floured surface to a size slightly larger than the top of a 9-inch pie dish. Place the pie dish upside down on the rolled-out pastry and trim the edges to fit.
+6. Spoon the beef or lamb mixture into the bottom of the pie crust, leaving a 1/2-inch border around the edges.
+7. Brush the edges of the pastry with beaten eggs and place the second pie dish on top of the filling, pressing gently to seal the edges. Crimp the edges to form a decorative border.
+8. Use a sharp knife to make 3-4 small slits in the top crust to allow steam to escape during baking.
+9. Brush the top crust with melted butter and bake for 25-30 minutes, or until golden brown.
+10. Remove from oven and let cool for a few minutes before serving.
+
+This savory pie is a hearty and flavorful dish that incorporates elements of Irish cuisine, such as beef or lamb, mixed mushrooms, and cheddar cheese. The puff pastry crust adds a flaky and buttery texture, while the egg wash and decorative border give it a beautiful finish. This dish is perfect for a cozy dinner or as a side dish for a St. Patrick's Day celebration!"
+15,1,4,2,1733,mistral:7b,Savoury Pie,Irish," ingredients:
+1. 600g of grass-fed Irish beef, cut into small cubes
+2. 400g of peeled and chopped Irish carrots
+3. 200g of sliced Irish onions
+4. 150g of chopped Irish leeks
+5. 100g of sliced Irish mushrooms
+6. 150g of butter
+7. 150g of all-purpose flour
+8. 750ml of Irish Guinness or other stout beer
+9. 2 tablespoons of tomato paste
+10. 1 teaspoon of thyme leaves
+11. Salt and freshly ground black pepper, to taste
+12. 1 sheet of ready-rolled Irish puff pastry
+13. 1 beaten egg for brushing the crust
+14. Water for brushing the crust
+
+instructions:
+1. Preheat your oven to 180°C (350°F).
+2. In a large Dutch oven or cast-iron skillet over medium heat, melt the butter and cook the beef until it is browned on all sides.
+3. Remove the beef from the pot and set it aside.
+4. In the same pot, cook the onions, leeks, carrots, and mushrooms, stirring frequently, until they are tender and lightly caramelized (about 10 minutes).
+5. Stir in the flour to coat the vegetables evenly.
+6. Gradually add the Guinness to the pot, whisking constantly to avoid lumps.
+7. Bring to a simmer, then stir in the tomato paste and thyme leaves.
+8. Return the beef to the pot, along with any juices that have collected.
+9. Season with salt and pepper to taste.
+10. Let the filling simmer for 30 minutes, stirring occasionally.
+11. Roll out the puff pastry to a thickness of about 5mm (0.2 inches) on a lightly floured surface.
+12. Transfer the pastry to a pie dish and press it into place, leaving an overhang for the edges.
+13. Fill the pastry shell with the savoury beef mixture.
+14. Brush the edges of the crust with water, then fold the overhanging pastry over the filling to form a seal.
+15. Brush the top of the crust with the beaten egg.
+16. Bake for 30-35 minutes, or until the crust is golden brown and the filling is bubbly.
+17. Allow the pie to rest for 15 minutes before slicing and serving."
+15,2,6,2,3333,llama3.1:8b,Savoury Pie,Irish,"Now that's a grand idea! Here's an Irish twist on Savoury Pie:
+
+**Colcannon and Sausage Savoury Pie**
+
+A hearty, comforting pie filled with the flavors of Ireland, featuring colcannon (mashed potatoes with kale and onions), sausages, and a hint of Guinness stout.
+
+**ingredients:**
+
+* 2 cups mashed potatoes (colcannon)
+\t+ 1 cup mashed Yukon gold potatoes
+\t+ 1/4 cup chopped scallions (green onions)
+\t+ 1 tablespoon butter
+\t+ Salt and pepper to taste
+* 4 Irish sausages, such as bangers or Irish breakfast sausage, sliced
+* 1 onion, diced
+* 2 cups kale, chopped
+* 2 tablespoons all-purpose flour
+* 1 cup Guinness stout
+* 1/2 cup grated cheddar cheese
+* 1 egg, beaten (for brushing pastry)
+* 1 sheet of frozen puff pastry, thawed
+
+**instructions:**
+
+1. Preheat the oven to 375°F (190°C).
+2. In a large skillet, cook the sliced sausages over medium heat until browned, about 5 minutes. Remove from heat and set aside.
+3. Add more butter to the skillet if needed, then add the diced onion and cook until softened, about 3-4 minutes.
+4. Add the chopped kale to the skillet and cook until wilted, stirring occasionally.
+5. In a separate bowl, combine the mashed potatoes (colcannon), flour, and a pinch of salt and pepper. Mix well.
+6. Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.
+7. Spoon the cooked sausage mixture into one half of the pastry rectangle, leaving a 1/2-inch border around it.
+8. Spread the colcannon over the sausages, making sure to cover them completely.
+9. Brush the edges of the pastry with the beaten egg for glazing.
+10. Fold the other half of the pastry over the filling and press the edges together to seal.
+11. Use a knife or pastry brush to create a decorative edge around the pie.
+12. Place the pie on a baking sheet, brush with a little more egg wash, and bake for 25-30 minutes, or until golden brown.
+13. Remove from the oven and let rest for 5 minutes before serving.
+
+Enjoy your Colcannon and Sausage Savoury Pie, sláinte!"
+16,1,7,1,934,gemma2:9b,Savoury Pie,Greek,"## Greek Savoury Pie (Spanakopita inspired)
+
+**Ingredients:**
+
+* **Filling:**
+    * 500g fresh spinach, washed and chopped
+    * 1 large onion, finely diced
+    * 2 cloves garlic, minced
+    * 150g feta cheese, crumbled
+    * 75g grated Gruyère cheese (or another nutty cheese)
+    * 2 tablespoons olive oil
+    * 1 teaspoon dried oregano
+    * 1/2 teaspoon ground cinnamon
+    * Salt and freshly ground black pepper to taste
+
+* **Crust:**
+    * 300g phyllo pastry, thawed
+    * 150g unsalted butter, melted
+    * 1 tablespoon olive oil
+
+**Instructions:**
+
+1. Preheat oven to 180°C (350°F). Grease a 9x13 inch baking dish with olive oil.
+2. In a large skillet, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes. Stir in garlic and cook for another minute until fragrant.
+3. Add spinach to the pan and cook, stirring occasionally, until wilted, about 5-7 minutes. Season with salt, pepper, oregano, and cinnamon. Remove from heat and let cool slightly.
+4. In a bowl, combine cooled spinach mixture, feta cheese, and Gruyère cheese. Mix well.
+5.  Lay one sheet of phyllo pastry in the prepared baking dish. Brush generously with melted butter. Repeat with 6 more sheets of phyllo pastry, brushing each layer with butter.
+6. Spread the spinach and cheese filling evenly over the layered phyllo dough. Top with remaining phyllo pastry sheets, brushing each layer with melted butter. Trim any excess pastry around the edges.
+7. Bake for 35-40 minutes, or until golden brown and crispy. Let cool for 10 minutes before slicing and serving.
+
+
+
+This recipe combines the classic Greek flavours of spinach, feta cheese, and oregano with a buttery phyllo crust for a delicious and satisfying savoury pie. Enjoy it warm as a main course or alongside a Greek salad for a complete meal."
+16,2,3,1,1734,mistral:7b,Savoury Pie,Greek," ingredients:
+- 1 lb (450g) ground lamb or beef
+- 1 onion, finely chopped
+- 3 cloves garlic, minced
+- 1 cup (250ml) red wine
+- 1 cup (250ml) chicken stock
+- 1 tbsp tomato paste
+- 1 tbsp cornstarch
+- 1/4 cup (60ml) water
+- 1 lb (450g) phyllo dough, thawed
+- 1/2 cup (120ml) melted butter
+- 1 cup (250g) feta cheese, crumbled
+- 1/2 cup (120g) kalamata olives, pitted
+- 1/4 cup (60g) capers
+- 1 tbsp dried oregano
+- Salt and pepper to taste
+- 1 egg, beaten (for brushing phyllo dough)
+
+instructions:
+1. Preheat oven to 375°F (190°C). Grease a 9x13 inch baking dish.
+2. In a large pan, cook ground meat over medium heat until browned. Remove excess fat.
+3. Add onion and garlic, sauté until softened.
+4. Deglaze the pan with red wine and let it reduce by half.
+5. Stir in chicken stock, tomato paste, cornstarch slurry, and oregano. Simmer for 10 minutes. Season with salt and pepper to taste.
+6. Layer phyllo dough into the prepared baking dish, brushing each layer with melted butter.
+7. Spread meat mixture over the last layer of phyllo dough.
+8. Top with crumbled feta cheese, kalamata olives, and capers.
+9. Fold over the edges of the phyllo dough to seal the pie. Brush the top with beaten egg.
+10. Bake for 35-40 minutes until golden brown on top. Let it rest for a few minutes before slicing and serving."
+17,1,8,1,1760,mistral:7b,Savoury Pie,Ottoman," Sure, here's a recipe for an Ottoman-style Savoury Pie (Börek) with some typical ingredients and instructions from Ottoman cuisine:
+
+ingredients:
+- 1 lb phyllo dough (Yufka), thawed
+- 1 lb ground beef or lamb, lean
+- 1 onion, finely chopped
+- 2 tbsp olive oil
+- 1 cup chopped fresh parsley and dill
+- 1/2 cup crumbled feta cheese
+- 1/2 cup walnuts, finely chopped
+- 3 cups milk
+- 1/2 cup flour
+- 1/2 cup butter
+- 1 tsp salt
+- 1 tsp black pepper
+- 1 tbsp sumac
+
+instructions:
+
+Preparing the Filling:
+1. Heat olive oil in a large pan over medium heat, then sauté onion until softened and translucent.
+2. Add ground meat to the pan with onion and cook until browned.
+3. Drain off excess fat from the pan.
+4. Stir in parsley, dill, feta cheese, and walnuts. Set aside.
+
+Making the Börek:
+1. Preheat oven to 375°F (190°C). Brush a 9x13 inch baking dish with oil.
+2. Lay 6 sheets of phyllo dough in the bottom of the pan, brushing each sheet with oil before adding the next one.
+3. Spread about one-third of the filling over the top of the dough.
+4. Repeat steps 1-3 with 3 more layers of dough and filling, until all ingredients are used up.
+5. Top the final layer of filling with another 6 sheets of phyllo dough, brushing each sheet with oil before adding the next one.
+
+Preparing the Sauce:
+1. In a medium saucepan, heat milk over medium heat.
+2. Gradually add flour to the milk while constantly stirring to avoid lumps.
+3. Add butter in small cubes and continue to cook, stirring constantly until thickened into a smooth sauce.
+4. Season with salt and black pepper.
+
+Baking:
+1. Pour the sauce over the top of the Börek in the baking dish.
+2. Sprinkle sumac on top for garnish.
+3. Bake for approximately 35 minutes, until the pie is golden brown on top and the dough is cooked through.
+4. Serve warm with a side salad or yogurt."
+17,2,2,1,2560,llama2:13b,Savoury Pie,Ottoman,"
+Sure, I can help you with that! Here's a recipe for a savory pie using elements of Ottoman cuisine:
+
+**Ingredients:**
+
+* 1 sheet of puff pastry, thawed
+* 1 cup of ground meat (beef or lamb)
+* 1 onion, finely chopped
+* 2 cloves of garlic, minced
+* 1 cup of chopped vegetables (such as carrots, zucchini, and bell peppers)
+* 1/2 cup of tomato paste
+* 1 tablespoon of paprika
+* Salt and pepper to taste
+* 2 tablespoons of olive oil
+* 1 egg, beaten (for brushing the pastry)
+* 1 teaspoon of chopped fresh parsley (optional)
+
+**Instructions:**
+
+1. Preheat your oven to 375°F (190°C).
+2. In a large mixing bowl, combine the ground meat, onion, garlic, chopped vegetables, tomato paste, paprika, salt, and pepper. Mix well until all ingredients are well combined.
+3. Roll out the puff pastry sheet on a floured surface to a thickness of about 1/8 inch (3 mm).
+4. Spoon the meat mixture onto one half of the pastry sheet, leaving a 1-inch (2.5 cm) border around the edges.
+5. Brush the edges of the pastry with the beaten egg to seal the pie.
+6. Place the other half of the pastry sheet on top of the filling, pressing down gently to seal the edges.
+7. Use a knife or a pastry cutter to create a decorative edge around the pie.
+8. Brush the top of the pie with the remaining egg and sprinkle with chopped parsley if desired.
+9. Bake the pie for 35-40 minutes, or until the pastry is golden brown and the filling is cooked through.
+10. Serve hot and enjoy!
+
+This savory pie recipe incorporates elements of Ottoman cuisine such as the use of ground meat (common in dishes like kebabs), tomato paste (commonly used in stews and soups), and paprika (often used to add flavor to meats and vegetables). The use of puff pastry is also reminiscent of Ottoman pastries, which often feature flaky, buttery dough. I hope you enjoy this recipe!"
+18,1,4,2,1763,mistral:7b,Fried Noodles,Chinese," Sure! Here's a recipe for Chinese-style Fried Noodles.
+
+ingredients:
+- 12 oz (340g) fresh or dried Chinese-style noodles
+- 2 tbsp vegetable oil
+- 1/2 lb (225g) thinly sliced beef, chicken, or shrimp (optional)
+- 1 cup (150g) chopped vegetables, such as bell peppers, carrots, and snow peas
+- 3 cloves garlic, minced
+- 1 inch (2.5 cm) piece ginger, sliced and minced
+- 3 tbsp soy sauce
+- 1 tbsp oyster sauce (optional)
+- 1 tbsp hoisin sauce
+- 1 tbsp rice vinegar
+- 1 tbsp sesame oil
+- 2 tbsp cornstarch + 3 tbsp water (slurry)
+- 3 green onions, sliced
+- Sesame seeds and/or chopped peanuts for garnish (optional)
+
+instructions:
+1. Cook noodles according to package instructions. Drain and rinse with cold water. Set aside.
+2. Heat oil in a large pan or wok over medium heat. If using meat, cook it until browned. Remove from pan and set aside.
+3. Add vegetables to the pan and stir-fry until tender-crisp. Remove from pan and set aside with meat.
+4. In the same pan, sauté garlic and ginger until fragrant. Be careful not to burn.
+5. In a small bowl, whisk together soy sauce, oyster sauce (if using), hoisin sauce, rice vinegar, and sesame oil. Set aside.
+6. Make the cornstarch slurry by mixing cornstarch and water in a separate bowl.
+7. Add the noodles to the pan and stir-fry for 2 minutes.
+8. Pour the sauce mixture over the noodles, then add the meat and vegetables back into the pan.
+9. Stir in the green onions.
+10. Push the ingredients to one side of the pan. Add the cornstarch slurry to the other side and stir constantly until thickened.
+11. Combine the noodles, sauce, and ingredients. Cook for an additional minute, then remove from heat.
+12. Transfer to a serving dish and garnish with sesame seeds or chopped peanuts if desired. Enjoy!"
+18,2,6,2,3363,llama3.1:8b,Fried Noodles,Chinese,"Here\'s a Chinese-inspired recipe for Stir-Fried Noodles:
+
+**Ingredients:**
+
+* 1 cup of thin rice noodles (or ""lo mein"" noodles)
+* 2 tablespoons of vegetable oil
+* 1 small onion, thinly sliced
+* 2 cloves of garlic, minced
+* 1 cup of mixed vegetables (such as bean sprouts, cabbage, and carrots)
+* 1/4 cup of soy sauce
+* 2 tablespoons of oyster sauce (optional)
+* 1 tablespoon of sesame oil
+* 1 teaspoon of grated ginger
+* Salt and pepper to taste
+* Scallions, chopped (for garnish)
+
+**Instructions:**
+
+1. Soak the rice noodles in warm water for about 5 minutes, or until they are soft and pliable. Drain and set aside.
+2. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.
+3. Add the sliced onion and cook for 2-3 minutes, or until it is translucent and starting to brown.
+4. Add the minced garlic and cook for another minute, stirring constantly to prevent burning.
+5. Add the mixed vegetables and cook for 2-3 minutes, or until they are tender-crisp.
+6. Add the cooked noodles to the wok or skillet and stir-fry for about 2 minutes, breaking up any clumps with a spatula.
+7. In a small bowl, whisk together the soy sauce, oyster sauce (if using), sesame oil, and grated ginger.
+8. Pour the sauce mixture over the noodles and vegetables in the wok or skillet, and stir-fry for another minute to combine.
+9. Season with salt and pepper to taste.
+10. Transfer the stir-fried noodles to a serving platter or individual plates, and garnish with chopped scallions.
+11. Serve immediately and enjoy!
+
+Note: You can customize this recipe by adding your favorite protein sources, such as cooked chicken, beef, or pork, or even tofu for a vegetarian option."
+19,1,5,0,3366,llama3.1:8b,Fried Noodles,Filipino,"Here\'s a Filipino-inspired version of Fried Noodles, also known as ""Pancit"":
+
+**Ingredients:**
+
+* 1 cup thin rice noodles (or ""pancit"" noodles)
+* 2 tablespoons vegetable oil
+* 1 small onion, diced
+* 2 cloves garlic, minced
+* 1 cup mixed vegetables (such as cabbage, carrots, and bean sprouts)
+* 1 cup cooked chicken or pork, diced
+* 2 teaspoons fish sauce (optional, but adds a savory umami flavor)
+* 1 teaspoon ground black pepper
+* 1 tablespoon patis (fish sauce) or salt (for added depth of flavor)
+* Chopped green onions and calamansi (Filipino lime) for garnish
+
+**Instructions:**
+
+1. Cook the rice noodles according to package instructions until they are soft and pliable. Drain and set aside.
+2. Heat the vegetable oil in a large skillet or wok over medium-high heat.
+3. Add the diced onion and sauté until translucent, about 3-4 minutes.
+4. Add the minced garlic and cook for another minute, stirring constantly to prevent burning.
+5. Add the mixed vegetables and cooked chicken or pork to the skillet. Stir-fry for 2-3 minutes, until the vegetables are tender-crisp.
+6. Add the fish sauce (if using) and ground black pepper to the skillet. Stir-fry for another minute.
+7. Add the cooked noodles to the skillet and stir-fry everything together for about 5 minutes, breaking up any clumps of noodles with a spatula.
+8. Taste and adjust the seasoning as needed with patis or salt.
+9. Transfer the Fried Noodles (or Pancit) to a serving platter or individual plates.
+10. Garnish with chopped green onions and calamansi slices, if desired.
+
+**Notes:**
+
+* Traditionally, pancit is served during special occasions in the Philippines, such as birthdays, weddings, and holidays. You can also serve it as a main dish for everyday meals.
+* Feel free to customize the recipe by adding your favorite protein sources (such as shrimp or tofu) or adjusting the seasoning to suit your taste preferences.
+
+Enjoy your Filipino-inspired Fried Noodles!"
+19,2,5,0,4166,gpt-4o-mini,Fried Noodles,Filipino,"Sure! Here’s a recipe for Filipino-style Fried Noodles, inspired by the classic Pancit Canton.
+
+**Ingredients:**
+- 200g egg noodles (or noodles of your choice)
+- 2 tablespoons vegetable oil
+- 1 medium onion, sliced
+- 3 cloves garlic, minced
+- 1 medium carrot, julienned
+- 1 cup cabbage, shredded
+- 1 red bell pepper, sliced
+- 1 cup cooked chicken, shredded (or shrimp, pork, or tofu for a vegetarian option)
+- 3 tablespoons soy sauce
+- 1 tablespoon oyster sauce
+- 1 tablespoon sesame oil
+- Salt and pepper to taste
+- 2 green onions, chopped (for garnish)
+- Calamansi or lemon wedges (for serving)
+
+**Instructions:**
+1. Cook the egg noodles according to package instructions. Drain and set aside.
+2. In a large wok or frying pan, heat the vegetable oil over medium heat.
+3. Add the sliced onion and minced garlic, sautéing until fragrant and the onion is translucent.
+4. Add the julienned carrot and sliced bell pepper, stir-frying for about 2-3 minutes until they begin to soften.
+5. Incorporate the shredded cabbage and continue to stir-fry for another 2 minutes until the cabbage is wilted.
+6. Add the cooked chicken (or your chosen protein) to the pan, mixing well with the vegetables.
+7. Pour in the soy sauce, oyster sauce, and sesame oil, stirring to combine all ingredients evenly.
+8. Add the cooked noodles to the pan, tossing everything together until the noodles are heated through and well coated with the sauce.
+9. Season with salt and pepper to taste, adjusting according to your preference.
+10. Serve hot, garnished with chopped green onions and accompanied by calamansi or lemon wedges for squeezing over the dish. Enjoy!"
+20,1,8,1,3416,llama3.1:8b,Rolls,Swedish,"A Swedish twist on traditional rolls! Here's a recipe inspired by Swedish cuisine:
+
+**Swedish-Style Cardamom and Cinnamon Rolls (Kardemummabullar)**
+
+Ingredients:
+* 250g strong flour
+* 100g granulated sugar
+* 1/2 teaspoon ground cardamom
+* 1/4 teaspoon ground cinnamon
+* 1/4 teaspoon salt
+* 1/2 cup unsalted butter, melted
+* 1 egg
+* 1 tablespoon heavy cream
+* Confectioners' sugar for dusting (optional)
+
+Instructions:
+1. In a large mixing bowl, combine the flour, sugar, cardamom, cinnamon, and salt.
+2. Add the melted butter, egg, and heavy cream to the dry ingredients. Mix until a dough forms.
+3. Knead the dough on a floured surface for about 10 minutes, until it becomes smooth and elastic.
+4. Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for about 1 hour, or until it has doubled in size.
+5. Preheat your oven to 200°C (400°F). Line a baking sheet with parchment paper.
+6. On a lightly floured surface, roll out the dough to a thickness of about 2 mm (1/8 inch).
+7. Cut the dough into long, thin strips, about 10-12 cm (4-5 inches) wide and 25-30 cm (10-12 inches) long.
+8. Roll each strip into a tight cylinder, starting from one end. Place the rolls on the prepared baking sheet, leaving about 2 cm (1 inch) of space between them.
+9. Bake the rolls for 15-20 minutes, or until they are golden brown.
+10. Remove the rolls from the oven and let them cool on a wire rack for at least 5 minutes before serving.
+
+Optional: Dust with confectioners' sugar before serving for an extra touch of sweetness and Swedish flair!
+
+These cardamom and cinnamon-infused rolls are inspired by traditional Swedish pastries, such as kardemummabullar. The combination of spices adds a unique flavor profile that's both sweet and savory. Enjoy!"
+20,2,2,1,4216,gpt-4o-mini,Rolls,Swedish,"Sure! Let's create a recipe for Swedish-inspired rolls, incorporating elements such as cardamom and soft, fluffy textures typical in Scandinavian baking. Here’s a recipe for Cardamom Buns (Kardemummabullar).
+
+**Ingredients:**
+- 4 cups all-purpose flour
+- 1/2 cup sugar
+- 1 packet (2 1/4 teaspoons) active dry yeast
+- 1 teaspoon ground cardamom
+- 1/2 teaspoon salt
+- 1 cup whole milk, warmed
+- 1/2 cup unsalted butter, melted
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1/4 cup sugar (for filling)
+- 2 teaspoons ground cinnamon (for filling)
+- 1/2 cup unsalted butter, softened (for filling)
+- 1 egg (for egg wash)
+- Pearl sugar (for topping)
+
+**Instructions:**
+1. In a large mixing bowl, combine warmed milk, melted butter, and sugar. Sprinkle the yeast on top and let it sit for about 5 minutes until foamy.
+2. Add the eggs, vanilla extract, ground cardamom, and salt to the yeast mixture and mix well.
+3. Gradually add the flour, one cup at a time, mixing until a soft dough forms.
+4. Knead the dough on a floured surface for about 8-10 minutes until it becomes smooth and elastic.
+5. Place the dough in a greased bowl, cover it with a clean cloth, and let it rise in a warm place for about 1 hour, or until it has doubled in size.
+6. While the dough is rising, prepare the filling by mixing softened butter, sugar, and ground cinnamon in a small bowl.
+7. Once the dough has risen, punch it down and roll it out on a floured surface into a rectangle about 1/4 inch thick.
+8. Spread the cinnamon filling evenly over the rolled-out dough.
+9. Roll the dough tightly from the long side to form a log. Cut the log into slices about 1 inch wide.
+10. Place the rolls on a baking sheet lined with parchment paper, leaving some space between them. Cover with a cloth and let them rise for another 30 minutes.
+11. Preheat your oven to 375°F (190°C).
+12. Beat the egg and brush it over the tops of the rolls. Sprinkle with pearl sugar if desired.
+13. Bake the rolls in the preheated oven for 15-20 minutes, or until golden brown.
+14. Remove from the oven and let them cool slightly before serving.
+
+Enjoy your delicious Swedish Cardamom Buns!"
+21,1,3,2,2674,llama2:13b,Savory Waffle,Jain diet,"
+Sure! Here's a recipe for a Savory Waffle using Jain diet principles:
+
+Ingredients:
+
+* 2 cups all-purpose flour (preferably from a Jain-friendly source)
+* 1/2 cup non-dairy milk (such as almond or soy milk)
+* 1/4 cup vegetable oil (such as olive or coconut oil)
+* 1 teaspoon baking powder
+* 1/2 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/2 cup grated vegan cheese (optional)
+* Filling ingredients of your choice (such as sautéed spinach, mushrooms, and bell peppers)
+
+Instructions:
+
+1. Preheat your waffle iron according to the manufacturer's instructions.
+2. In a large mixing bowl, whisk together the flour, non-dairy milk, oil, baking powder, salt, and black pepper until smooth.
+3. Add the grated vegan cheese (if using) and stir to combine.
+4. Pour about 1/4 cup of the batter onto the center of the preheated waffle iron.
+5. Add your desired filling ingredients to one half of the waffle.
+6. Fold the other half of the waffle over the filling to create a savory waffle sandwich.
+7. Cook for an additional 2-3 minutes, or until the waffle is golden brown and crispy.
+8. Serve hot and enjoy!
+
+Note: You can customize this recipe by using different types of fillings such as cooked bacon, sautéed onions, or diced bell peppers to suit your taste preferences. Additionally, you can replace the non-dairy milk with water if you prefer a more traditional waffle batter."
+21,2,7,2,3474,llama3.1:8b,Savory Waffle,Jain diet,"Here's a Jain-inspired version of the Savory Waffle recipe:
+
+**Savory Waffle (Vegan, No Onion, No Garlic)**
+
+**ingredients:**
+
+* 1 cup rice flour
+* 1/2 cup chickpea flour
+* 1/4 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/4 teaspoon ground cumin
+* 1 tablespoon lemon juice
+* 1/2 cup water
+* Vegetable oil for greasing the waffle iron
+
+**instructions:**
+
+1. In a large mixing bowl, combine rice flour, chickpea flour, salt, black pepper, and cumin. Mix well.
+2. Add the lemon juice and water to the dry ingredients and mix until a smooth batter is formed. Be careful not to overmix.
+3. Heat your waffle iron according to the manufacturer's instructions.
+4. Grease the waffle iron with a small amount of vegetable oil.
+5. Pour 1/4 cup of the batter onto the center of the waffle iron and spread it evenly to fill the iron.
+6. Close the waffle iron and cook for about 3-5 minutes or until the waffles are golden brown and crispy.
+7. Repeat with the remaining batter, greasing the iron as needed between each waffle.
+8. Serve the savory waffles hot, garnished with chopped fresh cilantro or scallions (optional).
+
+**Jain-inspired notes:**
+
+* In Jain cuisine, rice flour is a common ingredient used to make various dishes.
+* Chickpea flour adds protein and texture to the dish, making it suitable for a vegan diet.
+* No onion or garlic are used in this recipe as per Jain dietary restrictions.
+* Lemon juice provides a tangy flavor without using any animal-derived products.
+
+Enjoy your Savory Waffle, a delicious and innovative Jain-inspired creation!"
+22,1,6,1,1090,gemma2:9b,Fried Chicken,French,"## French-Inspired Fried Chicken 
+
+This recipe takes the classic American fried chicken and elevates it with subtle French techniques and flavors.  
+
+**Ingredients:**
+
+* **For the Chicken:**
+    * 8 bone-in, skin-on chicken pieces (thighs and drumsticks are ideal)
+    * 1 teaspoon salt
+    * ½ teaspoon freshly ground black pepper
+    * 1 tablespoon herbes de Provence
+    * 1 teaspoon garlic powder
+    * 1 egg, lightly beaten
+    * ¾ cup all-purpose flour
+    * ¼ cup cornstarch
+    * 1/2 cup milk
+    * ½ cup unsalted butter, melted
+* **For the Frying:**
+    * Vegetable oil for frying
+
+**Instructions:**
+
+1. **Prepare the Chicken:** Rinse chicken pieces and pat dry thoroughly with paper towels. Season generously with salt, pepper, herbes de Provence, and garlic powder.  
+2. **Make the Breading:** In a shallow dish, whisk together egg and milk. In another shallow dish, combine flour and cornstarch. 
+3. **Bread the Chicken:** Dip each chicken piece into the egg mixture, allowing excess to drip off. Dredge thoroughly in the flour mixture, pressing gently to ensure even coating.
+4. **Melt the Butter:** Heat melted butter in a large skillet over medium heat. 
+5. **Fry the Chicken:** Carefully place breaded chicken pieces in the hot skillet. Do not overcrowd the pan; fry in batches if necessary. Cook for about 6-8 minutes on each side, or until golden brown and cooked through (internal temperature should reach 165°F/74°C).
+6. **Drain & Rest:** Remove chicken from skillet and place on a wire rack lined with paper towels to drain excess oil. Allow to rest for 5 minutes before serving.
+
+**Serve your French-Inspired Fried Chicken with classic sides like roasted potatoes, creamy mashed potatoes, or a crisp green salad.**
+
+
+
+This recipe incorporates elements of French cuisine such as the use of herbes de Provence, a blend of aromatic herbs popular in Southern France, and melted butter for frying, a technique often used in French cooking to create a rich and flavorful crust.  
+"
+22,2,4,1,1890,mistral:7b,Fried Chicken,French," Sure! Here's a recipe for a classic French-inspired Fried Chicken dish. This recipe adds a touch of Dijon mustard and herbs to give the chicken an extra layer of flavor.
+
+ingredients:
+- 4 lbs (1.8 kg) chicken pieces (breasts, thighs, drums and wings)
+- Salt and freshly ground black pepper
+- 1 1/2 cups (375 ml) buttermilk
+- 1/4 cup (60 g) Dijon mustard
+- 1 tbsp (15 g) paprika
+- 1 tbsp (15 g) garlic powder
+- 1 tbsp (15 g) onion powder
+- 2 cups (475 g) all-purpose flour
+- 1/2 cup (120 g) cornmeal
+- 1/3 cup (80 g) unsalted butter, melted
+- 2 tbsp (30 g) chopped fresh herbs such as thyme, parsley and chives
+- Vegetable oil for frying
+
+instructions:
+1. Rinse the chicken pieces under cold water and pat dry with paper towels. Season both sides of the chicken pieces generously with salt and freshly ground black pepper. Set aside.
+2. In a large bowl, whisk together buttermilk, Dijon mustard, paprika, garlic powder, onion powder, 1 tbsp (15 g) salt and 1 tsp (5 g) black pepper until well combined. Add the chicken pieces to the bowl and make sure they are fully coated with the marinade. Cover and refrigerate for at least 2 hours or overnight.
+3. Preheat your deep fryer or Dutch oven filled with vegetable oil to 350°F (176°C).
+4. In a shallow dish, combine flour and cornmeal. Stir in herbs and season with salt and pepper.
+5. Remove the chicken pieces from the marinade, letting any excess drip off. Dredge each piece in the seasoned flour mixture, shaking off any excess, then place on a plate or tray.
+6. Fry the chicken in batches, carefully lowering them into the hot oil. Cook for 8-10 minutes per side until golden brown and fully cooked through. Use a slotted spoon to remove the chicken from the oil and transfer it to a paper towel-lined plate to drain.
+7. Heat a large skillet over medium heat. Add melted butter and cook, stirring occasionally, until browned bits appear on the bottom of the pan. Remove the pan from the heat and carefully place the fried chicken pieces in the skillet, spooning the butter over each piece to coat evenly. Serve hot."
+23,1,5,0,1100,gemma2:9b,Fried Chicken,Jamaican,"## Jamaican Style Fried Chicken 
+
+**Ingredients:**
+
+* 1 whole chicken, cut into pieces
+* 1 cup all-purpose flour
+* ½ cup cornstarch
+* 2 tbsp Scotch Bonnet pepper powder (adjust to taste)
+* 1 tsp ground thyme
+* 1 tsp garlic powder
+* 1 tsp onion powder
+* ½ tsp black pepper
+* ½ tsp salt
+* 1 tsp dried oregano
+* 1 tbsp browning sauce (like Reckitt's Brown Sauce)
+* 2 eggs, beaten
+* ½ cup milk
+* Vegetable oil for frying
+
+**Instructions:**
+
+1. **Marinate the chicken:** In a large bowl, combine Scotch Bonnet pepper powder, thyme, garlic powder, onion powder, black pepper, salt, oregano, and browning sauce. Add the chicken pieces and mix well to coat thoroughly. Marinate in the refrigerator for at least 2 hours, preferably overnight.
+2. **Prepare the dredging mixture:** In a separate bowl, whisk together the flour, cornstarch, and additional salt.  
+3. **Set up your frying station:** Heat about 2 inches of vegetable oil in a large, heavy-bottomed pot over medium-high heat. Use a thermometer to ensure the oil reaches 350°F (175°C).
+4. **Coat the chicken:** Remove the marinated chicken from the refrigerator and dip each piece into the beaten eggs, then dredge thoroughly in the flour mixture, shaking off any excess.
+5. **Fry the chicken:** Carefully place the coated chicken pieces in the hot oil, being careful not to overcrowd the pot. Fry for 6-8 minutes on each side, or until golden brown and cooked through (internal temperature should reach 165°F/74°C).
+6. **Drain and rest:** Remove the cooked chicken from the oil and place it on a wire rack lined with paper towels to drain excess oil. Allow the chicken to rest for 5 minutes before serving.
+
+**Serve hot with your favorite Jamaican sides like rice and peas, festival, or fried plantains.**
+
+
+
+Enjoy your taste of Jamaica!"
+23,2,5,0,1900,mistral:7b,Fried Chicken,Jamaican," ingredients:
+- 4 lbs (1.8 kg) chicken pieces (breasts, thighs, drumsticks, and wings)
+- 2 cups (473 ml) buttermilk
+- 2 cups (450 g) all-purpose flour
+- 1/4 cup (60 g) cornstarch
+- 1 tbsp (15 g) paprika
+- 1 tbsp (15 g) onion powder
+- 1 tbsp (15 g) garlic powder
+- 1 tbsp (15 g) cayenne pepper (adjust to taste)
+- 2 tsp (10 g) thyme leaves, fresh or dried
+- 1 tsp (5 g) allspice
+- Salt (to taste)
+- Black pepper (to taste)
+- Vegetable oil (for frying)
+
+instructions:
+1. In a large bowl, marinate the chicken pieces in buttermilk for at least 2 hours or overnight in the refrigerator.
+2. In another large bowl, mix together flour, cornstarch, paprika, onion powder, garlic powder, cayenne pepper, thyme, allspice, and salt and black pepper to taste.
+3. Preheat oil in a deep frying pan or Dutch oven over medium-high heat. The oil should be at least 1 inch (2.5 cm) deep.
+4. Coat each piece of chicken in the flour mixture, shaking off any excess.
+5. Carefully place the coated chicken into the hot oil. Fry until golden brown, approximately 7 minutes for white meat and 10 minutes for dark meat. Flip frequently to ensure even browning.
+6. Remove the fried chicken from the oil and drain on paper towels or a wire rack.
+7. Serve warm with your favorite Jamaican side dishes such as rice and peas, fried plantains, or coleslaw. Enjoy!"
+24,1,4,2,2713,llama2:13b,Fried Chicken,Islamic diet,"
+Here is the recipe for fried chicken according to Islamic dietary cuisine:
+
+Ingredients:
+
+* 2 lbs boneless, skinless chicken breasts or thighs
+* 1 cup all-purpose flour
+* 1/2 cup cornstarch
+* 1/2 cup water
+* 1/4 cup vegetable oil
+* 2 tbsp lemon juice
+* 1 tsp salt
+* 1/2 tsp black pepper
+* 1/4 tsp cayenne pepper (optional)
+* 1/4 cup chopped fresh parsley or cilantro (optional)
+
+Instructions:
+
+1. In a large bowl, combine the flour, cornstarch, salt, black pepper, and cayenne pepper (if using).
+2. Cut the chicken into bite-sized pieces and coat them evenly with the flour mixture.
+3. Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F.
+4. Once the oil is hot, add the coated chicken pieces to the pan and fry for 5-7 minutes on each side, or until golden brown and cooked through.
+5. Remove the chicken from the oil and place it on a paper towel-lined plate to drain excess oil.
+6. In a small bowl, mix together the lemon juice and water.
+7. Add the chicken back to the pan and spoon the lemon mixture over the top of each piece.
+8. Cook for an additional 2-3 minutes, or until the chicken is coated in the lemon mixture and heated through.
+9. Serve hot, garnished with chopped fresh parsley or cilantro (if desired).
+
+This recipe for fried chicken incorporates several elements of Islamic dietary cuisine:
+
+* The use of all-purpose flour and cornstarch as coatings is permissible under Islamic dietary laws, as these ingredients are considered halal (permissible) and do not contain any haram (prohibited) substances.
+* The lemon juice and water used in the final step of the recipe are both halal and provide a tangy, refreshing flavor to the dish.
+* The absence of pork and alcohol in the recipe ensures that it complies with Islamic dietary laws, as these ingredients are prohibited in Islamic cuisine.
+
+Note: This recipe is for chicken breast or thighs only, do not use any other parts of the chicken. Also, this recipe is for fried chicken, if you want to make it into a baked dish, you can use the same ingredients but instead of frying, you will bake the chicken in the oven."
+24,2,6,2,3513,llama3.1:8b,Fried Chicken,Islamic diet,"A creative challenge! While Islamic diet cuisine, also known as Halal cooking, has its own set of guidelines, I'll apply some principles to create a Halal-friendly version of Fried Chicken. Please note that this recipe will exclude any non-Halal ingredients and incorporate traditional Middle Eastern flavors.
+
+**Halal Fried Chicken**
+
+**Ingredients:**
+
+* 1 whole chicken (cut into desired pieces), certified Zabihah (slaughtered according to Islamic guidelines)
+* 2 cups all-purpose flour
+* 1 teaspoon ground cumin
+* 1 teaspoon paprika
+* 1/2 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1/4 cup lemon juice
+* 1/4 cup olive oil
+* 2 cloves garlic, minced (use a knife or grater to mince, as Islamic tradition recommends)
+* 1 tablespoon za'atar (a Middle Eastern herb mix)
+
+**Instructions:**
+
+1. **Marinate the chicken**: In a large bowl, whisk together flour, cumin, paprika, salt, and black pepper. Add lemon juice, olive oil, garlic, and za'atar. Mix well to create a marinade.
+2. **Coat the chicken**: Add the Zabihah-certified chicken pieces to the marinade and coat them evenly. Cover the bowl with plastic wrap or a lid, refrigerate for at least 30 minutes or up to 2 hours.
+3. **Dredge in flour**: Remove the chicken from the marinade, allowing any excess liquid to drip off. Dredge the chicken pieces in additional all-purpose flour, shaking off excess.
+4. **Fry the chicken**: Heat a deep frying pan or a deep fryer with enough oil to cover the chicken (about 1/2 inch). Fry the coated chicken pieces until golden brown and crispy on both sides, about 5-7 minutes per side. Drain on paper towels.
+5. **Serve**: Serve hot, garnished with fresh parsley or sumac, if desired.
+
+This recipe incorporates traditional Middle Eastern flavors while adhering to Islamic dietary guidelines. The use of Zabihah-certified chicken ensures that the meat is permissible according to Islamic law (Halal). Enjoy your Halal Fried Chicken!"
+25,1,7,1,1121,gemma2:9b,Barbecued Meat,Japanese,"## Yakitori-Style Barbecued Meat
+
+This recipe takes inspiration from Japanese yakitori, a popular skewered barbecue dish. 
+
+**Ingredients:**
+
+* **Meat:**
+    * 500g boneless, skinless chicken thighs (or your preferred meat - pork belly, beef sirloin also work well) , cut into bite-sized pieces
+* **Marinade:**
+    * 2 tbsp sake
+    * 1 tbsp soy sauce
+    * 1 tbsp mirin (sweet rice wine)
+    * 1 tsp grated ginger
+    * 1 clove garlic, minced
+    * ½ tsp black pepper
+
+**For Skewers:**
+* 10-12 bamboo skewers, soaked in water for at least 30 minutes
+
+**Optional Glaze:**
+* 1 tbsp honey
+* 1 tbsp soy sauce
+
+ **Instructions:**
+
+1.  **Marinate the Meat:** In a large bowl, combine all marinade ingredients. Add the meat and toss well to coat evenly. Cover and refrigerate for at least 30 minutes, or up to overnight for maximum flavor.
+2.  **Prepare Skewers:** Thread marinated meat onto soaked bamboo skewers, ensuring not to overcrowd.
+3.  **Heat Grill/Pan:** Preheat your grill or a large cast-iron skillet over medium-high heat. Lightly oil the grilling surface.
+4.  **Cook Yakitori:** Grill skewers for 3-4 minutes per side, or until cooked through and slightly charred. Baste with optional glaze during the last minute of cooking.
+5. **Serve:** Serve hot yakitori immediately with your favorite Japanese sides like pickled ginger, steamed rice, and grilled vegetables.
+
+
+Enjoy!"
+25,2,3,1,1921,mistral:7b,Barbecued Meat,Japanese," ingredients:
+- 1 lb (500g) thinly sliced barbecue meat (such as pork or beef)
+- 1/4 cup (60ml) soy sauce
+- 1/4 cup (60ml) mirin
+- 2 tbsp (30ml) sake
+- 1 tbsp (15ml) honey
+- 1 tbsp (15ml) rice vinegar
+- 1 tbsp (15ml) grated ginger
+- 2 cloves garlic, minced
+- 2 tbsp (30g) miso paste
+- 1 tbsp (15g) sugar
+- Green onions and sesame seeds for garnish
+
+instructions:
+1. In a small saucepan, combine soy sauce, mirin, sake, honey, rice vinegar, grated ginger, minced garlic, miso paste, and sugar. Cook over medium heat, stirring occasionally, until sugar has dissolved and mixture thickens slightly. Set aside to cool.
+2. Preheat barbecue or grill to medium-high heat. Brush sliced meat with a small amount of oil.
+3. Grill meat for 1-2 minutes on each side, until browned and lightly charred. Brush generously with glaze during the last minute of cooking.
+4. Remove meat from grill and let rest for a few minutes before serving.
+5. Garnish with sliced green onions and sesame seeds.
+6. Serve barbecued meat warm with steamed rice or noodles, pickled vegetables, and miso soup if desired. Enjoy!"
+26,1,5,0,1122,gemma2:9b,Barbecued Meat,Korean,"## Korean BBQ Ribs (Kalbi)
+
+**Ingredients:**
+
+* 2 lbs Beef Short Ribs, thinly sliced
+* **Marinade:**
+    * 1/4 cup soy sauce
+    * 2 tbsp brown sugar
+    * 1 tbsp sesame oil
+    * 1 tbsp minced garlic
+    * 1 tbsp grated ginger
+    * 1 tsp black pepper
+    * 1/2 tsp gochujang (Korean chili paste)
+    * 1 green onion, thinly sliced
+
+* 1 tbsp vegetable oil
+* Sesame seeds for garnish
+* Kimchi on the side for serving
+* White rice on the side for serving
+
+**Instructions:**
+
+1.  In a large bowl, combine all marinade ingredients. Add the sliced beef short ribs and toss to coat evenly. Cover and marinate in the refrigerator for at least 2 hours, preferably overnight.
+2. Heat the vegetable oil in a grill pan or skillet over medium-high heat.
+3. Grill the marinated ribs in batches, ensuring they are cooked through (about 4-5 minutes per side). 
+4. Garnish with sesame seeds and serve immediately with kimchi and white rice.
+
+
+
+**Notes:**
+
+* Adjust the amount of gochujang to your desired level of spice.
+* For a sweeter flavor, add more brown sugar to the marinade.
+* Serve with other Korean BBQ staples like pickled vegetables (danmuji) and lettuce wraps for a complete meal experience."
+26,2,5,0,2722,llama2:13b,Barbecued Meat,Korean,"
+Sure! Here's a recipe for barbecued meat with Korean flavors:
+
+Ingredients:
+
+* 500g beef short ribs or brisket, cut into bite-sized pieces
+* 2 tablespoons soy sauce
+* 2 tablespoons Gochujang (Korean chili paste)
+* 2 tablespoons brown sugar
+* 2 tablespoons garlic, minced
+* 1 tablespoon ginger, grated
+* 1 tablespoon sesame oil
+* 1 teaspoon Korean chili flakes (gochugaru)
+* Salt and black pepper, to taste
+* 2 cups Korean barbecue sauce (see below)
+* 2 tablespoons chopped green onions, for garnish
+
+Barbecue Sauce:
+
+* 1 cup soy sauce
+* 1/2 cup Gochujang (Korean chili paste)
+* 1/4 cup brown sugar
+* 2 tablespoons rice vinegar
+* 2 tablespoons garlic, minced
+* 1 teaspoon ginger, grated
+* 1/4 teaspoon Korean chili flakes (gochugaru)
+* Salt and black pepper, to taste
+
+Instructions:
+
+1. In a large bowl, whisk together soy sauce, Gochujang, brown sugar, garlic, ginger, sesame oil, Korean chili flakes, salt, and black pepper. Add the beef pieces and toss to coat evenly. Cover and refrigerate for at least 2 hours or overnight.
+2. Preheat a grill or grill pan to medium-high heat. Remove the beef from the marinade, letting any excess liquid drip off.
+3. Grill the beef for 5-7 minutes per side, or until it reaches your desired level of doneness. Let rest for 5 minutes before slicing thinly against the grain.
+4. In a small bowl, whisk together Korean barbecue sauce ingredients. Brush the sauce over the grilled beef during the last minute of cooking and let it glaze the meat.
+5. Garnish with chopped green onions before serving. Serve with rice or noodles, if desired.
+
+This recipe incorporates elements of Korean cuisine, such as soy sauce, Gochujang, brown sugar, garlic, ginger, sesame oil, and Korean chili flakes, to give the barbecued meat a unique and delicious flavor profile. The Korean barbecue sauce adds an extra layer of flavor and helps to glaze the meat during the last minute of cooking. Enjoy!"
+27,1,7,1,325,gemma2:2b,Barbecued Meat,Vietnamese,"While ""Barbecued Meat"" is a general term, let\'s imagine we\'re working with  **Vietnamese-Inspired Barbecued Pork (Thịt Nướng)** as an example! This recipe incorporates key Vietnamese flavors and cooking techniques.
+
+## Ingredients:
+
+* **For the Marinade:**
+    * 1/2 cup Fish sauce (Gạo)
+    * 1/4 cup Sugar (Mứt)
+    * 2 tbsp Shaoxing Wine (Lao Gan Ma)
+    * 1 tbsp Garlic, minced (Gia Đu) 
+    * 1 tsp Black peppercorns (Trứng Trắng)
+    * 1 tbsp Sesame oil (Hạt Dưa)
+    * 1-2 inch piece of ginger, sliced (Dứa)
+* **For the Pork:**
+    * 1.5 lbs pork shoulder or belly (Thịt Nướng) cut into 1-inch cubes
+    * 2 cloves Garlic, minced (Gia Đu)
+    * 1 tbsp Sesame seeds (Sắn Gấc)
+    *  ½ tsp Five spice powder (Phúc Thảo)
+
+* **For Serving:**
+   * Lettuce leaves (Giò Đỏ)
+   * Fresh herbs: mint, coriander (Rễ Dây)
+   * Chili sauce (Chảo Lạc) 
+
+
+## Instructions:
+
+1. **Prepare the marinade**: In a bowl, whisk together all the marinade ingredients until well combined. 
+2. **Marinate the pork:** Add the pork cubes to the marinade and toss them until they are evenly coated. Let the pork marinate for at least 30 minutes, ideally an hour or longer, in the refrigerator.
+3. **Prepare the grill (optional):** If using charcoal, light the coals to medium heat. Use a gas grill if preferred. You can also use a griddle on a stovetop. 
+4. **Grill the pork:** Preheat your grilling surface and add the marinated pork cubes, making sure they are not overcrowded. Grill for about 15-20 minutes until the pork is cooked through and has a nice caramelized crust. Flip the meat to ensure even cooking. 
+5. **Serve:**  Place the pork on lettuce leaves alongside fresh herbs (mint, coriander) and a side of chili sauce (Chảo Lạc).  
+
+
+**Enjoy your Vietnamese-inspired barbecue!**
+
+**Tips:**
+
+* You can substitute the marinade ingredients with other flavors like lemongrass, turmeric, or fish paste for a more complex taste.
+* Use alternative meats like chicken or tofu to create vegetarian versions of this dish. 
+
+
+"
+27,2,3,1,1125,gemma2:9b,Barbecued Meat,Vietnamese,"## Vietnamese-Style Barbecued Meat (Thịt nướng)
+
+**Ingredients:**
+
+* 1 lb thinly sliced pork belly or flank steak
+* **Marinade:**
+    * ¼ cup fish sauce
+    * 2 tablespoons brown sugar
+    * 1 tablespoon minced garlic
+    * 1 tablespoon minced ginger
+    * 1 tablespoon rice vinegar
+    * 1 teaspoon black pepper
+    * ½ teaspoon ground cumin
+    * 1 lime, juiced
+* **For serving:**
+    *  Banh mi rolls or rice paper wraps
+    * Fresh herbs: cilantro, mint, Thai basil
+    * Cucumber, thinly sliced
+    * Carrot, julienned
+    * Pickled daikon and carrots (optional)
+    * Sriracha sauce or other chili sauce
+
+**Instructions:**
+
+1. In a large bowl, combine all marinade ingredients. Add the sliced meat and ensure it's well coated in the marinade. Cover and refrigerate for at least 30 minutes, or preferably overnight.
+2. Preheat your grill or BBQ to medium-high heat. If using a charcoal grill, ensure the coals are white hot.
+3. Thread marinated meat onto skewers (soaked in water for 30 minutes beforehand to prevent burning). Alternatively, grill directly on the grates.
+4. Grill the meat for 2-3 minutes per side, or until cooked through and slightly charred.
+5. Remove skewers from heat and let rest for a few minutes before serving.
+6. Assemble your banh mi or rice paper wraps: fill with grilled meat, fresh herbs, cucumber, carrot, pickled daikon and carrots (if using), and sriracha sauce or chili sauce to taste.
+
+
+
+Enjoy!"
+28,1,3,2,1937,mistral:7b,Barbecued Meat,Southern US," ingredients:
+3 lbs (1.36 kg) pork shoulder or ribs,
+1 cup (240 ml) barbecue sauce, preferably homemade with tomatoes, molasses, vinegar, and spices,
+1/2 cup (120 ml) apple cider,
+1/4 cup (60 g) brown sugar,
+1/4 cup (60 g) yellow mustard,
+3 tbsp (45 g) paprika,
+2 tbsp (30 g) garlic powder,
+1 tbsp (15 g) onion powder,
+1 tbsp (15 g) chili powder,
+1 tbsp (15 g) cayenne pepper, (optional for spiciness),
+1 tbsp (15 g) kosher salt,
+1 tbsp (15 g) black pepper, freshly ground,
+1 lb (450 g) wood chips or chunks, such as hickory or mesquite, soaked in water,
+
+instructions:
+1. Prepare the meat: Trim excess fat from pork shoulder if desired. Rub with brown sugar, then apply a thick coat of mustard. In a small bowl, combine paprika, garlic powder, onion powder, chili powder, cayenne pepper (optional), kosher salt, and black pepper. Coat the pork evenly with this spice mixture.
+2. Prepare the grill: Set up a charcoal or gas grill for indirect heating. Add soaked wood chips to the coals for smoking flavor.
+3. Cook the meat: Place the seasoned pork in the indirect cooking area of the grill, away from the direct heat source. If using a cover, close it.
+4. Monitor the temperature: Maintain the grill temperature between 225°F (107°C) and 250°F (121°C).
+5. Apply barbecue sauce: After approximately 3 hours of cooking or when the pork shows good color and texture, apply a thick coat of barbecue sauce to both sides. Cook for another hour, applying additional sauce as desired for a shiny glaze.
+6. Check doneness: The pork should reach an internal temperature of 195°F (90.5°C) when tested with a meat thermometer. Allow it to rest for about 15 minutes before slicing and serving.
+7. Serve: Barbecued pork is best enjoyed with Southern sides such as baked beans, coleslaw, hush puppies or corn bread, and sweet tea."
+28,2,7,2,2737,llama2:13b,Barbecued Meat,Southern US,"
+Sure! Here is a recipe for barbecued meat with elements of Southern US cuisine:
+
+Ingredients:
+
+* 1 lb (450g) beef, pork, or lamb meat (your choice)
+* 1 cup (250ml) barbecue sauce
+* 1/4 cup (60ml) white vinegar
+* 1 tablespoon (15ml) Worcestershire sauce
+* 1 teaspoon (5ml) smoked paprika
+* 1 teaspoon (5ml) garlic powder
+* 1 teaspoon (5ml) onion powder
+* Salt and pepper to taste
+* 2 tablespoons (30g) all-purpose flour
+* Vegetable oil for brushing
+
+Instructions:
+
+1. Preheat your grill or smoker to medium-low heat.
+2. In a small bowl, mix together the white vinegar, Worcestershire sauce, smoked paprika, garlic powder, onion powder, salt, and pepper to make a marinade.
+3. Cut the meat into large chunks or thin strips (your choice). Place the meat in a large zip-top plastic bag or a non-reactive container with a lid. Pour the marinade over the meat, making sure that each piece is coated. Seal the bag or cover the container.
+4. Let the meat marinate for at least 2 hours or overnight, turning occasionally to ensure even marination.
+5. Remove the meat from the marinade and place it on a large sheet of heavy-duty aluminum foil or a non-stick surface. Discard any remaining marinade.
+6. Brush the vegetable oil over the meat, making sure to coat evenly.
+7. Place the meat on the grill or smoker, close the lid (if using a smoker), and cook for 2-3 hours or until the meat is tender and falls apart easily with a fork.
+8. While the meat is cooking, mix together the barbecue sauce and flour in a small bowl. Stir until smooth.
+9. After the meat has finished cooking, brush the barbecue sauce-flour mixture over the top of each piece, making sure to coat evenly.
+10. Return the meat to the grill or smoker for an additional 5-10 minutes, or until the sauce is caramelized and sticky.
+11. Remove the meat from the heat and let it rest for a few minutes before serving.
+
+This recipe combines elements of Southern US cuisine by using barbecue sauce, Worcestershire sauce, smoked paprika, garlic powder, onion powder, and all-purpose flour to create a sweet and tangy glaze for the meat. The use of a slow cooker or grill/smoker allows for a low-and-slow cooking method that is typical of Southern US barbecue styles. This dish can be served with classic Southern side dishes like coleslaw, baked beans, or cornbread. Enjoy!"
+29,1,4,2,340,gemma2:2b,Barbecued Meat,Jamaican,"## Jamaican-Inspired Barbecued Meat
+
+This recipe incorporates classic Jamaican flavors like jerk seasoning and Scotch bonnet peppers to create a smoky, tangy barbecued meat experience. 
+
+**Ingredients:**
+
+* **Meat:** 1.5 lbs boneless, skinless chicken thighs or pork shoulder (cut into larger chunks)
+* **Jerk Marinade:**
+    * 2 tbsp Jamaican Jerk seasoning blend 
+    * 1 tbsp ground allspice
+    * 1 tsp freshly grated ginger
+    * ½ tsp black pepper
+    * 1 scotch bonnet pepper, finely chopped (adjust to your heat preference) 
+    * ¼ cup lime juice
+* **Marinade Sauce:** 
+    *  2 tbsp Scotch Bonnet peppers, finely chopped (or omit if you prefer milder flavor)
+    *  1 tbsp tomato paste 
+    * ½ cup pineapple juice
+    * 1 tbsp brown sugar
+    * 1 tsp oregano
+    * ½ tsp ground thyme
+    * Salt and pepper to taste
+
+* **Cooking Equipment:** Grill, aluminum foil or large baking tray, tongs
+
+**Instructions:**
+
+1. **Prepare the Marinade:** In a bowl, combine all of the ingredients for the jerk marinade. Stir well to ensure everything is evenly distributed. 
+2. **Marinate the Meat:** Place your meat chunks into the marinade mixture and coat them thoroughly, ensuring each piece is covered. Cover the bowl with plastic wrap and marinate in the fridge for at least 4 hours (or overnight for best results). This will infuse the meat with flavor!
+3. **Prepare the Sauce:** While the meat marinates, prepare the sauce by combining all ingredients in a saucepan over medium heat. Cook until the sauce thickens slightly, stirring occasionally. You can adjust the sweetness and tanginess of the sauce based on your preferences. 
+4. **Grill or Bake:** Preheat your grill to medium-high heat or preheat your oven to 350°F (175°C). Once the grill is hot, remove the meat from the marinade, letting excess drip off. If grilling, place the marinated chunks directly onto the hot grill.  If baking, spread the marinated meat on a baking tray and cook for about 45 minutes, then add the sauce to the tray.
+5. **Final Touches:** Continue grilling or baking for another 10-15 minutes until your desired doneness is achieved (internal temperature of at least 165°F).  Remove from heat, baste with the prepared sauce and allow to rest for a few minutes before serving.
+6. **Serving:**  Serve hot with Jamaican staples like rice and peas, plantains, or festival bread. Enjoy!
+
+
+**Notes:** 
+
+* The scotch bonnet pepper adds a vibrant spice that can be adjusted according to your heat preference. For extra heat, feel free to include the pepper’s seeds.
+* You can adjust the cooking time based on your desired level of doneness and meat thickness. Smaller pieces will cook quicker than larger ones.  
+* Feel free to experiment with different Jamaican spices like allspice, thyme, or even add a hint of cinnamon for extra flavor complexity! 
+
+
+Enjoy this authentic taste of Jamaica."
+29,2,6,2,1940,mistral:7b,Barbecued Meat,Jamaican," ingredients:
+1. 2 lbs (1 kg) of your preferred barbecued meat (pork, chicken, or beef), cut into large pieces
+2. 1 ripe plantain, sliced
+3. 1 red bell pepper, sliced
+4. 1 yellow bell pepper, sliced
+5. 1 onion, chopped
+6. 3 scallions, chopped
+7. 2 tbsp (30 ml) Jamaican jerk seasoning
+8. 2 tbsp (30 g) brown sugar
+9. 2 tbsp (30 ml) soy sauce
+10. 2 tbsp (30 ml) rice vinegar or apple cider vinegar
+11. 2 tbsp (30 ml) olive oil
+12. 2 tbsp (30 g) chopped garlic
+13. Salt and freshly ground black pepper, to taste
+14. 1 cup (250 ml) of your preferred barbecue sauce
+
+instructions:
+1. Prepare the grill or barbecue for medium-high heat.
+2. In a large bowl, combine jerk seasoning, brown sugar, soy sauce, rice vinegar, olive oil, chopped garlic, and salt & pepper to make the marinade. Mix well.
+3. Place the meat in the marinade, ensuring it is fully coated. Cover the bowl and refrigerate for at least 2 hours or overnight for best results.
+4. Thread the sliced plantains, bell peppers, onions, and scallions onto skewers. Brush them with oil and season with salt & pepper.
+5. Grill the meat and skewered vegetables separately until they are cooked through. For the meat, cook it for 6-8 minutes per side or until fully cooked and slightly charred. For the vegetables, grill for about 3-4 minutes on each side.
+6. Brush the barbecued meat with your preferred barbecue sauce during the last few minutes of cooking.
+7. Serve the barbecued meat and grilled vegetables together on a platter. Enjoy!"
+30,1,5,0,1970,mistral:7b,French Fries,French," ingredients:
+- 5 pounds (2.3 kilograms) of Russet potatoes, rinsed and dried
+- 1/2 cup (120 ml) of vegetable oil or peanut oil
+- Salt to taste (preferably fleur de sel or Maldon sea salt)
+- Optional: fresh thyme leaves or rosemary for seasoning
+
+instructions:
+1. Preheat your oven to 400°F (205°C). Line two baking sheets with aluminum foil and brush each sheet evenly with vegetable oil.
+
+2. Rinse the potatoes under cold water to remove any excess starch, then pat them dry with paper towels or a clean kitchen towel. Cut the potatoes into 1/2 inch (1 cm) thick slices or sticks (frites).
+
+3. Divide the potatoes between the two prepared baking sheets, ensuring they are spread evenly and not overcrowded. If necessary, use additional baking sheets to ensure a single layer of potatoes per sheet.
+
+4. Drizzle each tray with oil, then toss the potatoes gently with your hands or a spatula to coat evenly. Sprinkle generously with salt (fleur de sel or Maldon sea salt) for best results.
+
+5. For added flavor, you can also sprinkle fresh thyme leaves or rosemary between the potato slices before baking.
+
+6. Transfer both baking sheets into the preheated oven. Bake for 15 minutes.
+
+7. After 15 minutes, carefully remove one tray of potatoes from the oven and use a metal spatula to turn each fry over. Return the tray to the oven. Flip the remaining tray of potatoes as well.
+
+8. Continue baking until golden brown and crispy, approximately 10 more minutes for the first tray and 5 more minutes for the second tray (total baking time: about 25-30 minutes).
+
+9. Once done, remove both trays from the oven. Allow the French fries to cool slightly before serving. Enjoy your delicious homemade French fries!"
+30,2,5,0,2770,llama2:13b,French Fries,French,"
+Absolutely! Here is a French-inspired recipe for French fries:
+
+Ingredients:
+
+* 2 lbs potatoes, peeled and cut into long, thin strips (about 1/2 inch thick)
+* 1/4 cup all-purpose flour
+* 1/2 tsp salt
+* 1/4 tsp black pepper
+* 1/4 tsp paprika
+* 1/4 tsp garlic powder
+* 1/4 cup vegetable oil
+* 1/4 cup white wine (optional)
+* 1/4 cup butter, melted
+* Fresh parsley, chopped (for garnish)
+
+Instructions:
+
+1. In a large bowl, combine the flour, salt, black pepper, paprika, and garlic powder.
+2. Toss the potato strips in the flour mixture until they are evenly coated.
+3. Heat the vegetable oil in a large frying pan over medium-high heat until it reaches 350°F.
+4. Carefully place the coated potato strips in the hot oil and fry for 2-3 minutes on each side, or until golden brown and crispy.
+5. Remove the fries from the oil with a slotted spoon and drain on paper towels.
+6. If desired, add the white wine and butter to the pan and cook until the liquid has reduced and the sauce is slightly thickened.
+7. Serve the French fries hot, garnished with chopped parsley and a drizzle of the wine and butter sauce (if using).
+
+Bon appétit! This recipe incorporates some classic French flavors and techniques, such as the use of all-purpose flour (beurre manié) to create a crispy coating, and the option to add a rich wine and butter sauce. Enjoy!"
+31,1,3,2,1975,mistral:7b,French Fries,Scottish," ingredients:
+<<potatoes, preferably Maris Piper or King Edward>>,
+<<vegetable oil for frying>>,
+<<sea salt>>,
+<<black pepper, freshly ground>>,
+<<malt vinegar or a Scottish whisky reduction for serving (optional)>>
+
+instructions:
+1. Preheat the oven to 400°F (205°C).
+2. Wash and cut potatoes into long strips, rinse them in cold water to remove excess starch.
+3. Drain the potatoes and pat dry with paper towels.
+4. Heat oil in a deep skillet over medium-high heat until it reaches 350°F (180°C).
+5. Fry potatoes for approximately 6 minutes or until they are softened. Be careful not to crowd the pan, cook potatoes in batches if necessary.
+6. Transfer fried potatoes onto a paper towel-lined baking sheet and season with sea salt.
+7. Increase oven temperature to 425°F (218°C).
+8. Arrange potato strips in a single layer on the prepared baking sheet and bake for an additional 10 minutes, or until golden brown.
+9. Season with freshly ground black pepper and a light sprinkling of sea salt to taste.
+10. Serve hot with a side of malt vinegar or a drizzle of whisky reduction for an authentic Scottish twist."
+31,2,7,2,2775,llama2:13b,French Fries,Scottish,"
+Absolutely! Here is a recipe for French Fries with Scottish influences:
+
+Ingredients:
+
+* 2 lbs potatoes, peeled and cut into long, thin strips (about 1/2 inch thick)
+* Vegetable oil for frying
+* Salt, to taste
+* Freshly ground black pepper, to taste
+* 2 cloves garlic, minced (optional)
+* 1 tbsp Scottish whisky (optional)
+* 1/4 cup grated cheddar cheese (optional)
+
+Instructions:
+
+1. Heat the vegetable oil in a large pot or deep fryer to 350°F (180°C).
+2. In a large bowl, toss the potato strips with salt, black pepper, and garlic (if using) until they are well coated.
+3. Carefully add the potato strips to the hot oil in batches, being careful not to overcrowd the pot.
+4. Fry the potatoes for 2-3 minutes on each side, or until they are golden brown and crispy.
+5. Remove the fries from the oil with a slotted spoon and drain on paper towels.
+6. If desired, sprinkle the fries with grated cheddar cheese (optional) and toss to coat.
+7. Serve the Scottish-style French Fries hot and enjoy!
+
+Note: To add even more Scottish flair, you could try using beef dripping or lard instead of vegetable oil for frying. Additionally, you could garnish the fries with chopped fresh herbs like parsley or chives, or serve them with a side of Scottish-style coleslaw (made with cabbage, apples, and a hint of mustard)."
+32,1,5,0,1193,gemma2:9b,French Fries,Islamic diet,"It\'s tricky to directly apply ""elements of Islamic diet cuisine"" to French fries because the concept is more about principles than specific ingredients.  Islamic dietary guidelines (Halal) focus on:
+
+* **Permitted Foods:**  Meat from slaughtered animals according to Islamic rites, fish, fruits, vegetables, grains, etc.
+* **Forbidden Foods:** Pork, alcohol, blood, animals not slaughtered Halal.
+
+French fries themselves are made primarily from potatoes and oil for frying. These are permitted in Islam.  The key is ensuring the ingredients used meet Halal standards:
+
+**Ingredients:**
+
+* 2 lbs Russet potatoes, peeled and cut into french fry shapes
+* Salt to taste
+* Black pepper to taste
+* **Halal-certified vegetable oil** for deep frying (canola, sunflower, peanut are common choices)
+
+**Instructions:**
+
+1. **Soak the potatoes:**  Place the cut potatoes in a bowl of cold water for at least 30 minutes. This removes excess starch and helps them fry crispier.
+2. **Dry thoroughly:** Remove the potatoes from the water and pat them completely dry with paper towels. Excess moisture will cause oil splattering.
+3. **Heat the oil:** In a deep fryer or heavy-bottomed pot, heat the Halal-certified vegetable oil to 350°F (175°C). Use a thermometer to ensure accuracy.
+4. **Fry in batches:** Carefully add small batches of potatoes to the hot oil. Avoid overcrowding the pot. Fry for about 5-7 minutes, or until golden brown and crispy.
+5. **Remove and drain:**  Use a slotted spoon to remove the fries from the oil and place them on a wire rack lined with paper towels to drain excess oil.
+6. **Season:** While still hot, season the fries generously with salt and black pepper. You can add other spices if desired (paprika, cumin, etc.).
+
+
+**Important Notes:**
+
+*  Always double-check that your chosen vegetable oil is certified Halal. Some oils may contain non-Halal ingredients or be processed using methods not compliant with Islamic principles. 
+* Avoid cross-contamination: Use separate utensils and cutting boards for preparing Halal food to prevent contact with non-Halal ingredients."
+32,2,5,0,2793,llama2:13b,French Fries,Islamic diet,"
+Sure, here's a recipe for French fries with an Islamic diet cuisine twist:
+
+Ingredients:
+
+* 2 lbs potatoes, peeled and cut into long, thin strips (about 1/2 inch thick)
+* 1/4 cup vegetable oil
+* 1 tsp salt
+* 1/2 tsp black pepper
+* 1/2 tsp cumin
+* 1/2 tsp coriander
+* 1/4 tsp turmeric (optional, for added flavor and color)
+* 2 cloves garlic, minced (optional, for added flavor)
+
+Instructions:
+
+1. Preheat the oil in a deep frying pan or a deep fryer to 350°F (175°C).
+2. In a large bowl, mix together the salt, black pepper, cumin, coriander, and turmeric (if using).
+3. Add the minced garlic (if using) to the bowl and mix well.
+4. Pour the vegetable oil into the bowl and mix until the potatoes are evenly coated with the spice blend and oil.
+5. Carefully add the potato strips to the hot oil in batches, being careful not to overcrowd the pan.
+6. Fry the potatoes for 3-4 minutes on each side, or until they are golden brown and crispy.
+7. Remove the fries from the oil with a slotted spoon and drain on paper towels.
+8. Sprinkle with additional salt and black pepper to taste (if desired).
+9. Serve hot and enjoy!
+
+Note: To make this recipe even more authentic, you could use halal-certified vegetable oil and ensure that all of the ingredients are from halal sources. Additionally, if you're looking for a completely meat-free version of this dish, you could substitute the garlic with a different herb or spice blend to suit your taste preferences."
+33,1,8,1,2021,mistral:7b,Burger,Hawaiian," ingredients:
+- 1 lb ground beef, preferably grass-fed and locally sourced
+- 6 hawaiian sweet rolls, toasted
+- 1/2 cup pineapple chunks, fresh or canned in juice
+- 1/4 red onion, thinly sliced
+- 1/2 cup teriyaki sauce, homemade or store-bought
+- 1/2 cup coleslaw mix or shredded cabbage
+- 6 slices cheddar cheese (optional)
+- 6 leaves butter lettuce
+- 1 avocado, thinly sliced
+- Salt and pepper to taste
+- 2 tbsp vegetable oil
+
+instructions:
+1. Preheat a large skillet or griddle over medium heat. Divide the ground beef into six portions and shape them gently into patties. Season both sides with salt and pepper.
+2. Heat the vegetable oil in the skillet and cook the burgers for 3-4 minutes on each side, or until they reach desired doneness.
+3. While the burgers are cooking, prepare your toppings: grill the pineapple chunks until caramelized. In a separate pan, sauté the red onion slices until tender and translucent.
+4. Toast the Hawaiian sweet rolls under the broiler or in a dry skillet.
+5. Assemble each burger by spreading teriyaki sauce on the bottom bun. Place the cooked beef patty on top of the sauce, followed by coleslaw mix or shredded cabbage. Add caramelized pineapple chunks and sautéed red onions.
+6. If desired, add a slice of cheddar cheese and allow it to melt before adding butter lettuce and avocado slices.
+7. Drizzle some additional teriyaki sauce over the top bun before assembling the burger.
+8. Serve each Hawaiian burger on its toasted sweet roll, with extra teriyaki sauce for dipping if desired. Enjoy!"
+33,2,2,1,2821,llama2:13b,Burger,Hawaiian,"
+Aloha! Let's give the classic burger a Hawaiian twist by incorporating some local ingredients and cooking techniques. Here's the recipe for a Hawaiian-style Burger:
+
+Ingredients:
+
+* 1 lb ground beef (or leaner alternative)
+* 1/2 cup chopped cabbage
+* 1/2 cup diced carrots
+* 1/4 cup diced onions
+* 1/4 cup chopped fresh cilantro
+* 1 tablespoon soy sauce
+* 1 tablespoon Hawaiian sea salt
+* 1 teaspoon sesame oil
+* 2 tablespoons pineapple juice
+* 1 teaspoon ginger, grated
+* 1/4 cup chopped macadamia nuts (optional)
+* Buns and toppings of your choice (e.g., lettuce, tomato, pickles, bacon, avocado, mozzarella cheese)
+
+Instructions:
+
+1. Preheat a grill or grill pan to medium-high heat.
+2. In a large mixing bowl, combine the ground beef, chopped cabbage, diced carrots, onions, cilantro, soy sauce, Hawaiian sea salt, sesame oil, pineapple juice, and grated ginger. Mix well with your hands until just combined. Do not overmix.
+3. Divide the meat mixture into 4 equal portions and shape each portion into a ball. Flatten each ball slightly into a patty.
+4. Brush the grill or grill pan with sesame oil to prevent sticking. Place the patties onto the grill and cook for 3-4 minutes per side, or until they reach your desired level of doneness.
+5. While the burgers are cooking, toast the buns on the grill.
+6. Once the burgers are cooked, assemble the burger by placing a cooked patty onto each bun. Add your desired toppings.
+7. Just before serving, sprinkle chopped macadamia nuts on top of each burger (if using).
+8. Enjoy your delicious Hawaiian-style burgers!
+
+This recipe incorporates elements of Hawaiian cuisine, such as the use of soy sauce and sesame oil, as well as local ingredients like macadamia nuts and pineapple juice. The addition of grated ginger gives the burger a unique Hawaiian flavor. Feel free to customize the recipe with your favorite toppings or by substituting different protein sources (e.g., chicken, tofu, or portobello mushrooms). Mahalo for trying this recipe and sharing your feedback!"
+34,1,6,1,2091,mistral:7b,Pancake,Spanish," ingredients:
+- 1 1/2 cups (375 ml) all-purpose flour (harina pan)
+- 3 1/2 teaspoons baking powder (hueso de levadura)
+- 1 teaspoon salt (sal)
+- 2 tablespoons sugar (azúcar)
+- 1 1/4 cups (300 ml) milk (leche)
+- 1 egg (huevo)
+- 2 tablespoons vegetable oil (aceite de soja o de oliva)
+- 1 cup (250 g) Spanish chorizo or jamón serrano, sliced (opcional, para la variante española)
+- Olive oil (aceite de oliva) for frying
+
+instructions:
+1. In a large bowl, whisk together the flour, baking powder, salt, and sugar. Make a well in the center of the mixture.
+2. In another bowl or measuring jug, beat together the milk and egg, then pour this into the well in the flour.
+3. Gradually mix the flour into the liquid with a wooden spoon until it forms a smooth batter. Add the vegetable oil and whisk to combine. If using chorizo or jamón serrano, fold in at this stage.
+4. Heat a large non-stick frying pan over medium heat and lightly coat with olive oil.
+5. Using a ladle, spoon, or measuring cup, pour enough batter into the pan for each pancake (around 1/4 to 1/3 cup /60 g per pancake). Cook until bubbles begin to appear on the surface of the pancake and the edges start to set - about 2 minutes.
+6. Carefully flip the pancake over with a spatula, then cook for another minute or so on the other side. Remove from the pan and repeat with the remaining batter, adding more oil as needed.
+7. Serve the pancakes hot, drizzled with honey (miel) or agave syrup (jugo de miel), sprinkled with cinnamon (canela), and enjoyed with a cup of Spanish coffee or hot chocolate. For the savory version, top each pancake with sliced chorizo or jamón serrano, and perhaps some avocado slices or sautéed bell peppers.
+8. Optional: Add other traditional Spanish ingredients like cinnamon or orange zest to taste when making the batter for a sweet variation."
+34,2,4,1,2891,llama2:13b,Pancake,Spanish,"
+Absolutely! Here is a recipe for Spanish-style pancakes with traditional Spanish ingredients and cooking methods:
+
+Ingredients:
+
+* 2 cups all-purpose flour
+* 2 teaspoons baking powder
+* 1/4 teaspoon salt
+* 1/2 cup milk
+* 1/2 cup vegetable oil
+* 1 large egg
+* 1/2 cup granulated sugar
+* 1 tablespoon vanilla extract
+* 1/4 cup chopped walnuts or almonds (optional)
+* Fresh fruit such as strawberries, blueberries, or raspberries for serving (optional)
+
+Instructions:
+
+1. Preheat a non-stick skillet or griddle over medium heat.
+2. In a large bowl, whisk together the flour, baking powder, and salt.
+3. In a separate bowl, whisk together the milk, oil, egg, sugar, and vanilla extract.
+4. Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.
+5. If using nuts, fold them into the batter.
+6. Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet or griddle.
+7. Cook for 2-3 minutes, until bubbles appear on the surface of the pancake and the edges start to dry.
+8. Flip the pancake and cook for an additional 1-2 minutes, until golden brown.
+9. Repeat with the remaining batter, greasing the skillet or griddle as needed.
+10. Serve the pancakes warm with fresh fruit and a drizzle of syrup, honey, or maple glaze, if desired.
+
+This recipe incorporates traditional Spanish ingredients such as milk, oil, and nuts, while using a pancake batter similar to that found in many Spanish dishes. The result is a delicious and authentic Spanish-style pancake!"
+35,1,6,1,2097,mistral:7b,Pancake,Southern US," ingredients: 
+- 1 1/2 cups all-purpose flour
+- 3 1/2 teaspoons baking powder
+- 1 teaspoon salt
+- 1 tablespoon white sugar
+- 1 1/4 cups buttermilk
+- 1 egg, lightly beaten
+- 3 tablespoons butter, melted
+- 1 cup chopped pecans or bacon (optional)
+- Maple syrup or Southern-style sorghum syrup, for serving
+
+instructions: 
+1. In a large bowl, whisk together the flour, baking powder, salt, and sugar. Make a well in the center of the dry ingredients.
+2. In a separate bowl, combine the buttermilk, egg, and melted butter. Pour this mixture into the well in the flour. Stir just until combined (a few lumps are okay). If using pecans or bacon, fold them gently into the batter.
+3. Heat a large non-stick skillet over medium heat. Melt a small amount of butter in the pan for each batch of pancakes. Using 1/4 cup measure, scoop batter onto the skillet. Cook until bubbles form on top and edges start to dry out, about 2 minutes. Flip and cook until golden brown, another 1-2 minutes.
+4. Repeat with remaining batter, adding more butter to pan as needed. Serve hot with a generous drizzle of maple syrup or Southern-style sorghum syrup, and enjoy!
+
+Optional variations: For savory pancakes, replace sugar with 1 teaspoon salt and omit pecans or bacon. Instead, serve with sausage gravy or country ham for a complete Southern breakfast. For a fruit-filled version, fold in fresh or frozen blueberries, raspberries, or banana slices before cooking."
+35,2,4,1,3697,llama3.1:8b,Pancake,Southern US,"Y'all, I reckon I can give it a try! Here's a Southern-fied pancake recipe:
+
+**Biscuit-Fluffin' Buttermilk Pancakes with Baked Apple Compote**
+
+Ingredients:
+* 1 cup warm buttermilk (don't you go skimpin' on the good stuff!)
+* 2 large eggs, fresh from the farm
+* 3 tablespoons granulated sugar (y'all like it sweet, don't ya?)
+* 4 teaspoons active dry yeast (gimme that fluffy goodness!)
+* 1 teaspoon pure vanilla extract (the real deal, not that imitation stuff)
+* 2 cups all-purpose flour (unbleached, of course - we want that wholesome flavor)
+* 3 tablespoons unsalted butter, melted (yes, you read that right - 3 tablespoons!)
+* Baked Apple Compote:
+\t+ 1 large apple, peeled and sliced thin
+\t+ 2 tablespoons unsalted butter
+\t+ 1 tablespoon brown sugar
+\t+ 1/4 teaspoon ground cinnamon
+
+Instructions:
+
+1. Preheat your skillet or griddle to medium-high heat - you want it hot, but not scorching.
+2. In a large bowl, whisk together them eggs, sugar, and yeast. Don't worry if it's a mite lumpy; we'll get to that in a minute.
+3. Add the warm buttermilk, melted butter, and vanilla extract to the egg mixture. Stir until it's smooth as sweet tea on the porch.
+4. In a separate bowl, whisk together them flour, sugar (yes, another tablespoon - this is a Southern pancake!), baking powder, and salt. Don't you go skimpin' on that sugar!
+5. Add the dry ingredients to the wet mixture and stir until just combined - don't overdo it, or your pancakes'll be tougher than an old shoe.
+6. Now, add some flour from them biscuits (or a nice crusty cornbread) to the mix. Just a dustin' will do; we want that fluffin' texture!
+7. For the Baked Apple Compote: In a separate skillet, melt 1 tablespoon of butter over medium heat. Add sliced apples and cook until they're soft and caramelized (about 10 minutes). Stir in brown sugar and cinnamon.
+8. Once your pancakes are done, top 'em with that scrumptious apple compote and serve up!"
+36,1,6,1,2897,llama2:13b,Pancake,Southern US,"
+absolutely! Here's a recipe for Southern-style pancakes with ingredients and instructions:
+
+Ingredients:
+
+* 1 cup all-purpose flour
+* 2 teaspoons baking powder
+* 1 teaspoon salt
+* 1/4 cup granulated sugar
+* 2 large eggs
+* 1 cup buttermilk
+* 4 tablespoons unsalted butter, melted
+* 1 teaspoon pure vanilla extract
+* Chopped pecans or walnuts (optional)
+
+Instructions:
+
+1. In a medium bowl, whisk together the flour, baking powder, and salt.
+2. In a separate large bowl, whisk together the eggs, sugar, and buttermilk until smooth.
+3. Add the melted butter, vanilla extract, and chopped nuts (if using) to the wet ingredients and stir until combined.
+4. Gradually pour the wet ingredients into the dry ingredients and stir until just combined. The batter should still be slightly lumpy.
+5. Heat a non-stick skillet or griddle over medium heat. Grease the pan with a small amount of butter or oil.
+6. Using a 1/4 cup measuring cup, scoop the batter onto the pan.
+7. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.
+8. Flip the pancakes and cook for another 1-2 minutes, until golden brown.
+9. Serve the pancakes warm with your favorite Southern toppings, such as:
+\t* Real maple syrup or honey
+\t* Fresh berries or fruit preserves
+\t* Whipped butter or whipped cream
+\t* Powdered sugar or granulated sugar
+\t* Chopped nuts or chocolate chips
+
+Enjoy your delicious Southern-style pancakes!"
+36,2,4,1,4497,gpt-4o-mini,Pancake,Southern US,"Sure! Here’s a recipe for Southern-style pancakes that incorporates elements of Southern cuisine.
+
+**Ingredients:**
+- 1 cup all-purpose flour
+- 1 tablespoon sugar
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 cup buttermilk
+- 1 large egg
+- 2 tablespoons melted butter (plus extra for cooking)
+- 1/2 teaspoon vanilla extract
+- 1/2 cup cornmeal (for added texture)
+- Optional: chopped pecans or blueberries
+
+**Instructions:**
+1. In a large bowl, whisk together the flour, cornmeal, sugar, baking powder, baking soda, and salt until well combined.
+2. In another bowl, mix the buttermilk, egg, melted butter, and vanilla extract until smooth.
+3. Pour the wet ingredients into the dry ingredients and stir until just combined. Be careful not to overmix; a few lumps are okay. If desired, fold in chopped pecans or blueberries for extra flavor.
+4. Heat a skillet or griddle over medium heat and add a little butter to coat the surface.
+5. Once the skillet is hot, pour about 1/4 cup of batter onto the skillet for each pancake.
+6. Cook until bubbles form on the surface and the edges look set, about 2-3 minutes. Flip and cook for another 1-2 minutes on the other side until golden brown.
+7. Remove from the skillet and keep warm in a low oven while you cook the remaining pancakes.
+8. Serve warm with maple syrup, honey, or a dollop of whipped cream, and garnish with extra pecans or fresh fruit if desired. Enjoy your Southern-style pancakes!"
+37,1,8,1,2106,mistral:7b,Pancake,Ethiopian," Sure! Here's a recipe for Ethiopian Injera Pancakes. Injera is a staple in Ethiopian cuisine and is used as a flatbread to scoop up various stews and dishes. This pancake recipe serves 4-6 people.
+
+ingredients: 
+1. 2 cups teff flour, soaked in water overnight
+2. 4-5 cups water for blending
+3. 1 tbsp salt
+4. 1 tbsp active dry yeast (optional)
+5. Vegetable oil or nonstick spray
+
+instructions: 
+1. Drain the teff flour in a large bowl and rinse it under cold running water until the water runs clear. Transfer the teff to a large pot with 4-5 cups of water. Let it soak for at least 30 minutes, or overnight if possible.
+2. Blend the soaked teff and water in a blender or food processor until it becomes smooth and the consistency of buttermilk. This may take several minutes. If the mixture is too thick, add more water, a little at a time, to reach the desired consistency.
+3. Transfer the batter to a large bowl. Add salt and yeast (if using) and mix well. Let the batter sit at room temperature for at least 2 hours, or overnight if possible, to allow it to ferment and develop flavor. The longer it sits, the better the injera will taste.
+4. Heat a nonstick skillet over medium heat. Lightly coat it with vegetable oil or nonstick spray. Scoop about 1 cup of batter into the skillet and swirl it around to cover the bottom evenly. If the pancake is too thick, add water to thin out the batter.
+5. Cover the pan with a lid and let it cook for 3-5 minutes, or until the edges start to pull away from the sides of the pan and small holes appear on the surface of the injera.
+6. Remove the injera pancake from the skillet and transfer it to a plate. Repeat this process with the remaining batter, greasing the skillet as needed. Serve the injera warm with your favorite Ethiopian stews or dishes. Enjoy!"
+37,2,2,1,2906,llama2:13b,Pancake,Ethiopian,"
+Sure! Here's a recipe for an Ethiopian-inspired pancake dish:
+
+Ingredients:
+
+* 1 cup all-purpose flour
+* 2 tablespoons yeast
+* 1 teaspoon salt
+* 1/2 cup lukewarm water
+* 1/4 cup clarified butter or vegetable oil
+* 1/2 cup plain yogurt (optional)
+* 1 tablespoon honey or maple syrup (optional)
+* Chopped fresh herbs like cilantro, parsley, or basil (optional)
+
+Instructions:
+
+1. In a large mixing bowl, combine the flour, yeast, and salt.
+2. Gradually add the lukewarm water to the dry ingredients while stirring with a spoon until a smooth batter forms. The consistency should be similar to pancake batter.
+3. Cover the bowl with a clean towel or plastic wrap and let the mixture rest for 1 hour in a warm place, allowing the yeast to activate and the dough to rise slightly.
+4. Heat a non-stick skillet or griddle over medium heat.
+5. Pour 1/4 cup of batter onto the skillet for each pancake.
+6. Cook the pancakes for 2-3 minutes on the first side, until bubbles appear on the surface and the edges start to dry.
+7. Flip the pancakes and cook for an additional 1-2 minutes, until they are golden brown and cooked through.
+8. Serve the pancakes with clarified butter or vegetable oil drizzled over them, and a sprinkle of honey or maple syrup if desired. You can also add chopped fresh herbs as a garnish.
+9. Repeat the process until all the batter is used up.
+
+This recipe incorporates elements of Ethiopian cuisine by using clarified butter and honey, which are common ingredients in traditional Ethiopian dishes. The addition of chopped fresh herbs is also reminiscent of the fragrant spices and herbs used in many Ethiopian dishes. The use of yeast in the pancake batter gives the pancakes a slightly sour taste, similar to the injera bread that is ubiquitous in Ethiopian cuisine."
+38,1,9,1,1326,gemma2:9b,Stew,Filipino,"## Filipino-Style Beef Stew (Kare-kare)
+
+**Ingredients:**
+
+* 1 kg beef shank, cut into 2-inch cubes
+* 1 large onion, chopped
+* 4 cloves garlic, minced
+* 1 inch ginger, grated
+* 1 tbsp annatto powder
+* 2 cups beef broth
+* 1 (400g) can crushed tomatoes
+* ½ cup peanut butter
+* ½ cup water
+* 1 tbsp bagoong alamang (shrimp paste), optional
+* 1 cup long green beans, cut into 1-inch pieces
+* 1 cup string beans, cut into 1-inch pieces
+* 1 head bok choy, chopped
+* Salt and pepper to taste
+* Patis (fish sauce) for serving
+
+**Instructions:**
+
+1. In a large pot or Dutch oven, brown the beef cubes over medium heat. Set aside.
+2. Add the onion, garlic, and ginger to the pot and sauté until softened, about 5 minutes.
+3. Stir in the annatto powder and cook for 1 minute more.
+4. Return the beef to the pot. Pour in the beef broth and crushed tomatoes. Bring to a boil, then reduce heat to low, cover, and simmer for 1 ½ hours, or until the beef is tender.
+5. In a separate bowl, whisk together the peanut butter and water until smooth. Add this mixture to the pot along with the bagoong alamang (if using). Stir well and continue simmering for another 30 minutes.
+6. Add the green beans, string beans, and bok choy to the pot. Simmer until the vegetables are tender-crisp, about 5 minutes.
+7. Season with salt and pepper to taste. Serve hot with a drizzle of patis (fish sauce).
+
+**Enjoy your Filipino-style beef stew!**"
+38,2,1,1,2126,mistral:7b,Stew,Filipino," ingredients:
+1. 2 lbs beef chuck, cut into cubes
+2. 1 large onion, chopped
+3. 4 cloves garlic, minced
+4. 1 thumb-sized ginger, sliced
+5. 2 tbsp vegetable oil
+6. 4 cups water or beef broth
+7. 1 lb taro, peeled and cubed
+8. 1 lb potatoes, cubed
+9. 1 lb yam, cubed
+10. 1 lb green beans, trimmed
+11. 2 tbsp fish sauce
+12. 2 tbsp soy sauce
+13. 1 tbsp calamansi juice (or lemon juice)
+14. 1 tbsp sugar
+15. Salt and pepper to taste
+16. 1 cup sliced bamboo shoots, canned
+17. 1 cup coconut milk
+18. 2 cups ripe bananas, sliced
+
+instructions:
+1. Heat oil in a large pot over medium heat. Sauté onion until softened.
+2. Add garlic and ginger, cooking until fragrant.
+3. Add beef cubes and brown on all sides. Remove from pot and set aside.
+4. In the same pot, add water or broth, taro, potatoes, yam, and green beans. Bring to a boil.
+5. Season with fish sauce, soy sauce, calamansi juice, sugar, salt, and pepper. Stir well.
+6. Add browned beef back into the pot. Simmer until meat is tender, about 1 hour.
+7. Add canned bamboo shoots and coconut milk. Cook for an additional 20 minutes.
+8. Serve hot with sliced bananas on top. Enjoy!"
+39,1,5,0,2130,mistral:7b,Stew,French," ingredients:
+1. 1.5 kg (3.3 lbs) beef stew meat, cut into large cubes
+2. 4 tbsp unsalted butter
+3. 2 onions, chopped
+4. 4 carrots, sliced
+5. 3 parsnips, sliced
+6. 3 cloves garlic, minced
+7. 1 cup red wine
+8. 2 cups beef broth
+9. 4 tbsp tomato paste
+10. 3 tbsp all-purpose flour
+11. 3 bay leaves
+12. 2 tbsp chopped fresh parsley
+13. Salt and pepper to taste
+14. 2 tbsp olive oil
+15. Water as needed
+
+instructions:
+1. In a large Dutch oven or stockpot, heat the olive oil over medium-high heat. Add the beef cubes in batches, seasoning with salt and pepper, and brown on all sides. Remove from the pot and set aside.
+2. In the same pot, melt the butter over medium heat. Add the chopped onions and cook until softened, about 5 minutes.
+3. Add the carrots, parsnips, and minced garlic to the pot. Cook for another 5 minutes, stirring occasionally.
+4. Sprinkle the flour over the vegetables and stir to coat. Allow it to toast slightly for a minute or two.
+5. Gradually add the red wine, stirring continuously to prevent lumps from forming. Once all the wine has been incorporated, add the tomato paste and beef broth. Stir until well combined.
+6. Bring the stew to a simmer, then return the browned beef cubes to the pot, along with the bay leaves.
+7. Reduce heat to low and let the stew simmer for at least 1 hour or until the meat is tender and the flavors have melded together. Taste and adjust seasoning with salt, pepper, and parsley as desired. Add water if the stew seems too thick.
+8. Serve the beef stew hot in bowls, garnished with additional chopped parsley for a lovely French touch. Bon appétit!"
+39,2,5,0,2930,llama2:13b,Stew,French,"
+Certainly! Here's a recipe for a French-inspired stew using the elements of French cuisine:
+
+Ingredients:
+
+* <<ingredient1>> (such as beef or lamb)
+* <<ingredient2>> (such as carrots, onions, and celery)
+* <<ingredient3>> (such as potatoes, salt, and pepper)
+* <<ingredient4>> (such as tomato paste or purée)
+* <<ingredient5>> (such as red wine or beef broth)
+* <<ingredient6>> (such as butter or duck fat)
+* <<ingredient7>> (such as thyme, rosemary, or parsley)
+
+Instructions:
+
+1. Preheat the oven to 350°F (180°C).
+2. Season the meat with salt and pepper.
+3. In a large pot or Dutch oven, sauté the meat in butter or duck fat over medium-high heat until browned on all sides. Remove the meat from the pot and set it aside.
+4. Add more butter or duck fat to the pot if necessary, then add the vegetables (such as carrots, onions, and celery) and sauté until they are softened and lightly browned.
+5. Add the potatoes, salt, pepper, tomato paste or purée, red wine or beef broth, and herbs (such as thyme, rosemary, or parsley) to the pot. Stir to combine.
+6. Return the meat to the pot, cover it with a lid, and transfer the pot to the preheated oven.
+7. Braise the stew for 1 1/2 to 2 hours, or until the meat is tender and the vegetables are cooked through.
+8. Remove the pot from the oven and discard any excess fat. Serve the stew hot, garnished with fresh herbs and crusty bread on the side.
+
+Bon appétit! This French-inspired stew is a hearty and flavorful dish that showcases the elements of French cuisine. The use of high-quality ingredients, such as grass-fed beef or lamb, and fresh vegetables, along with the careful preparation and cooking methods, result in a delicious and satisfying meal."
+40,1,6,1,1332,gemma2:9b,Stew,British,"## British-Style Beef Stew
+
+**Ingredients:**
+
+* 1.5 lbs beef stewing steak, cubed
+* 2 tbsp olive oil
+* 1 large onion, chopped
+* 2 carrots, peeled and chopped
+* 2 celery stalks, chopped
+* 2 cloves garlic, minced
+* 1 tsp fresh thyme leaves
+* 1/2 tsp dried rosemary
+* 1/4 tsp ground black pepper
+* 1 tbsp plain flour
+* 1.5 cups beef stock
+* 1 cup red wine (optional)
+* 1 tbsp tomato puree
+* 1 large potato, peeled and cubed
+* 1 bay leaf
+* Salt to taste
+
+**Instructions:**
+
+1. Season the beef cubes generously with salt and pepper.
+2. Heat the olive oil in a large pot or Dutch oven over medium-high heat. Brown the beef in batches, ensuring all sides are browned. Remove the beef and set aside.
+3. Add the chopped onion, carrots, celery, and garlic to the pot. Sauté for 5-7 minutes until softened.
+4. Stir in the thyme, rosemary, and black pepper.  Add the flour and cook for 1 minute, stirring constantly.
+5. Gradually whisk in the beef stock and red wine (if using), scraping any browned bits from the bottom of the pot. Add the tomato puree and bay leaf. Bring to a simmer.
+6. Return the browned beef to the pot. Reduce heat to low, cover, and simmer for 1.5-2 hours, or until the beef is very tender.
+7. Add the cubed potato to the stew during the last 30 minutes of cooking. 
+8. Remove the bay leaf before serving. Season with salt to taste. Serve hot with crusty bread, mashed potatoes, or Yorkshire pudding.
+
+
+
+Enjoy your hearty British-style Beef Stew!"
+40,2,4,1,3732,llama3.1:8b,Stew,British,"A classic British twist on a traditional stew! Here's a recipe that incorporates some quintessential elements of British cuisine:
+
+**Bangers 'n' Mash Stew**
+
+Inspired by the hearty stews of the UK, this dish features sausages (bangers), mashed potatoes (mash), and a medley of vegetables, all in a rich, flavorful broth.
+
+ingredients:
+* 500g beef or pork sausages (bangers)
+* 2 medium-sized potatoes
+* 1 large onion
+* 3 cloves of garlic
+* 2 carrots
+* 2 celery stalks
+* 1 cup of pearl barley
+* 1 cup of lamb or beef stock
+* 1 tsp dried thyme
+* Salt and pepper to taste
+
+instructions:
+1. Peel the potatoes and chop them into large chunks. Boil them in a separate pot until they're cooked through, then mash with butter and milk.
+2. In a large pan over medium heat, cook the sausages (bangers) until browned on all sides, breaking them up with a spoon as they cook.
+3. Remove the cooked sausages from the pan and set aside.
+4. Add more oil to the pan if necessary, then sauté the chopped onion, garlic, carrots, and celery until they're softened and fragrant.
+5. Add the pearl barley to the pan and stir for 1-2 minutes to coat it with the vegetable mixture.
+6. Pour in the lamb or beef stock, thyme, salt, and pepper, and bring the stew to a boil.
+7. Return the cooked sausages (bangers) to the pan and simmer everything together for about 20-25 minutes, or until the vegetables are tender and the flavors have melded together.
+8. Serve hot, with a generous helping of mashed potatoes on top.
+
+Enjoy your delicious Bangers 'n' Mash Stew!"
+41,1,6,1,1333,gemma2:9b,Stew,Irish,"##  Irish-Inspired Beef Stew 
+
+**Ingredients:**
+
+* 1 kg stewing beef, cubed
+* 2 tbsp olive oil
+* 1 large onion, chopped
+* 2 carrots, chopped
+* 2 celery stalks, chopped
+* 2 cloves garlic, minced
+* 1 tbsp plain flour
+* 500ml beef stock
+* 200ml Guinness stout
+* 1 tsp dried thyme
+* 1 tsp dried rosemary
+* 1 bay leaf
+* 1 large potato, peeled and cubed
+* 1 turnip, peeled and cubed
+* ½ cup pearl barley
+* Salt and freshly ground black pepper to taste
+* Chopped fresh parsley for garnish
+
+**Instructions:**
+
+1. Season the beef cubes generously with salt and pepper. Heat the olive oil in a large Dutch oven or heavy-bottomed pot over medium-high heat. 
+2. Brown the beef in batches, ensuring each side is nicely seared. Remove the browned beef from the pot and set aside.
+3. Add the chopped onion, carrots, and celery to the pot and sauté for 5 minutes, until softened. Stir in the minced garlic and cook for an additional minute.
+4. Sprinkle the flour over the vegetables and stir well to coat. Gradually whisk in the beef stock and Guinness stout, scraping up any browned bits from the bottom of the pot. 
+5. Add the thyme, rosemary, bay leaf, potato, turnip, and barley to the pot. Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 1 ½ - 2 hours, or until the beef is tender and the vegetables are cooked through. 
+6. Remove the bay leaf before serving.  Taste and adjust seasoning with salt and pepper. Serve hot garnished with chopped fresh parsley.
+
+
+Enjoy your hearty Irish-inspired Beef Stew!"
+41,2,4,1,2933,llama2:13b,Stew,Irish,"
+Sure! Here's an Irish-inspired stew recipe using traditional ingredients and techniques:
+
+Ingredients:
+
+* 1 lb beef stewing meat (such as chuck or round)
+* 2 large carrots, peeled and chopped
+* 2 large potatoes, peeled and chopped
+* 1 large onion, chopped
+* 2 cloves garlic, minced
+* 1 cup beef broth
+* 1/4 cup Guinness stout (optional)
+* 1 tsp dried thyme
+* Salt and pepper to taste
+* 2 tbsp all-purpose flour
+* 2 tbsp butter
+
+Instructions:
+
+1. Season the beef with salt, pepper, and thyme. Heat the butter in a large Dutch oven over medium-high heat until foamy. Add the beef and brown on all sides, about 5 minutes per side. Remove the beef from the pot and set aside.
+2. Add the chopped onion to the pot and cook until softened, about 3 minutes. Add the garlic and cook for an additional minute.
+3. Add the carrots and potatoes to the pot and cook for 5 minutes, stirring occasionally.
+4. Pour in the beef broth and Guinness stout (if using), scraping up any browned bits from the bottom of the pot. Bring the mixture to a simmer.
+5. Return the beef to the pot, cover, and transfer the pot to the oven. Braise for 1 1/2 to 2 hours, or until the beef is tender and the vegetables are cooked through.
+6. Remove the pot from the oven and stir in the all-purpose flour to thicken the stew. Season with salt and pepper to taste.
+7. Serve hot, garnished with chopped fresh herbs like parsley or chives if desired. Traditional Irish side dishes like mashed potatoes, boiled cabbage, or colcannon (mashed potatoes with kale or scallions) would pair well with this stew.
+
+This hearty beef stew is a classic example of traditional Irish cuisine, featuring slow-cooked meat and vegetables in a rich broth. The Guinness stout adds depth and complexity to the dish, but feel free to omit it if you prefer a lighter flavor. Sláinte!"
+42,1,3,2,3736,llama3.1:8b,Stew,Swedish,"What a great challenge! Swedish cuisine often features hearty, comforting dishes with a focus on locally-sourced ingredients. Here\'s a recipe for a Swedish-inspired stew:
+
+**""Järnvägssoppa"" - Railway Stew**
+
+A traditional Swedish comfort food made with tender beef, root vegetables, and aromatic spices.
+
+ingredients: 
+
+* 1 kg beef chuck or brisket, cut into 2-inch cubes
+* 3 medium-sized potatoes, peeled and cubed
+* 2 large carrots, peeled and sliced
+* 1 large turnip (or rutabaga), peeled and cubed
+* 1 onion, chopped
+* 2 cloves of garlic, minced
+* 1 tablespoon lingonberry jam (optional)
+* 1 teaspoon ground allspice
+* 1/2 teaspoon ground nutmeg
+* Salt and black pepper to taste
+* 2 tablespoons Swedish brown mustard (or regular mustard)
+* 1 cup beef broth
+* 1 cup red wine (such as Cabernet Sauvignon or Merlot)
+
+instructions: 
+
+1. Heat the Swedish brown mustard in a large Dutch oven over medium heat.
+2. Add the chopped onion and sauté until softened, about 5 minutes.
+3. Add the minced garlic and cook for an additional minute.
+4. Add the beef cubes and cook until browned on all sides, about 5-7 minutes.
+5. Add the cubed potatoes, sliced carrots, and turnip to the pot.
+6. Pour in the beef broth, red wine, ground allspice, nutmeg, salt, and black pepper.
+7. Stir in the lingonberry jam (if using).
+8. Bring the stew to a boil, then reduce the heat to low and simmer for 1 1/2 hours or until the meat is tender.
+9. Serve hot, garnished with fresh parsley or dill if desired.
+
+**Traditional Swedish notes:**
+
+* Lingonberry jam adds a sweet and tangy flavor to this dish, but feel free to omit it if you prefer a more savory stew.
+* Swedish brown mustard has a slightly sweeter and nuttier flavor than regular mustard. If you can\'t find it, use regular mustard as a substitute.
+* This hearty stew is reminiscent of traditional Swedish comfort food served at family gatherings or on chilly winter evenings.
+
+Enjoy your delicious ""Järnvägssoppa""!"
+42,2,7,2,4536,gpt-4o-mini,Stew,Swedish,"Sure! Here’s a Swedish-inspired stew recipe that incorporates elements of traditional Swedish cuisine, such as meatballs, root vegetables, and a creamy sauce.
+
+**Ingredients:**
+- 1 lb (450 g) beef or veal, cut into bite-sized pieces
+- 1 medium onion, chopped
+- 2 cloves garlic, minced
+- 2 carrots, sliced
+- 1 parsnip, sliced
+- 2 potatoes, diced
+- 1 cup (240 ml) beef broth
+- 1 cup (240 ml) heavy cream
+- 1 tablespoon all-purpose flour
+- 1 tablespoon Dijon mustard
+- 1 tablespoon soy sauce
+- 1 teaspoon dried thyme
+- Salt and pepper to taste
+- 2 tablespoons butter
+- Fresh parsley, chopped (for garnish)
+
+**Instructions:**
+1. In a large pot, melt the butter over medium heat. Add the chopped onion and garlic, sautéing until the onion is translucent.
+2. Add the beef or veal pieces to the pot, browning them on all sides. Season with salt and pepper.
+3. Stir in the carrots, parsnip, and potatoes, then cook for about 5 minutes, stirring occasionally.
+4. Sprinkle the flour over the meat and vegetables, stirring well to coat. Cook for an additional 2 minutes.
+5. Pour in the beef broth, heavy cream, Dijon mustard, soy sauce, and dried thyme. Stir to combine, then bring the mixture to a simmer.
+6. Reduce the heat to low, cover the pot, and let the stew simmer for about 45 minutes, or until the meat and vegetables are tender.
+7. Taste and adjust the seasoning with more salt and pepper if needed.
+8. Serve the stew hot, garnished with fresh parsley, alongside some crusty bread or traditional Swedish flatbreads. Enjoy!"
+43,1,5,0,546,gemma2:2b,Stew,Ethiopian,"## Ethiopian Spiced Lamb Stew with Ginger & Turmeric (Yeberet)  
+
+**Ingredients:**
+
+* **For the lamb:**
+    * 1 lb boneless lamb shoulder, cut into 1-inch cubes
+    * 1 tbsp berbere spice blend 
+    * ½ tsp ground ginger
+    * ½ tsp turmeric powder
+    * ¼ tsp cumin powder
+    * Salt and pepper to taste
+* **For the stew:**
+    * 2 large onions, chopped
+    * 3 cloves garlic, minced
+    * 1 inch piece of fresh ginger, peeled and sliced
+    * 1 tsp ground cinnamon
+    * 1 tbsp tomato paste
+    * 4 cups beef or vegetable broth 
+    * ½ cup diced tomatoes (fresh or canned)
+    * Freshly squeezed lemon juice
+    * Cilantro leaves for garnish 
+
+**Instructions:**
+
+1. **Prepare the lamb:** In a large bowl, combine the lamb with berbere spice blend, ginger powder, turmeric powder, cumin powder, salt, and pepper. Let marinate for at least 30 minutes (or longer for deeper flavor).
+2. **Sauté aromatics:** Heat oil in a Dutch oven or pot over medium heat. Add the onions and sauté until softened and lightly browned, about 5-7 minutes. Stir in garlic and ginger, cook for an additional minute until fragrant.
+3. **Add spices:**  Stir in cinnamon, tomato paste, and saute for another 2 minutes to develop flavor.
+4. **Cook lamb:** Add the marinated lamb cubes to the pot and brown on all sides (about 5-7 minutes). Season with salt and pepper. 
+5. **Simmer:** Pour in the broth and diced tomatoes, bring to a boil then lower the heat and simmer for about 1 hour, or until the lamb is tender and falling apart.  
+6. **Adjust and garnish:** Stir in the lemon juice. Taste and adjust seasoning (salt, pepper, ginger). Garnish with cilantro leaves and serve over injera flatbread. 
+
+**Notes:**
+
+* You can use a combination of beef and vegetable broth for a richer flavor. 
+* If you prefer a milder spice level, reduce the amount of berbere spice blend or omit it entirely.  
+* Adjust the sweetness and tanginess with additional lemon juice and sugar (optional). 
+* Serve with injera flatbread, which is used to scoop up the stew. 
+
+
+Enjoy this flavorful Ethiopian-inspired stew!  "
+43,2,5,0,1346,gemma2:9b,Stew,Ethiopian,"## Ethiopian-Inspired Stew  
+
+This recipe takes inspiration from classic Ethiopian stews, incorporating rich spices and flavorful vegetables. 
+
+**Ingredients:**
+
+* **Protein:** 
+    * 1 lb boneless lamb or beef, cubed 
+    * OR 1 cup firm tofu, cubed (for a vegetarian option)
+* **Aromatic Base:** 
+    * 2 tbsp berbere spice blend (or a mix of paprika, cayenne pepper, ginger, garlic powder, cumin, coriander, turmeric)
+    * 1 large onion, chopped
+    * 4 cloves garlic, minced
+    * 1 inch fresh ginger, grated
+    * 1/2 tsp fenugreek seeds
+    * 1/4 tsp cardamom powder
+* **Vegetables:**
+    * 1 large carrot, diced
+    * 1 cup diced potatoes
+    * 1 cup green beans, trimmed and halved
+    * 1/2 cup chopped red bell pepper
+    * 1/4 cup chopped fresh cilantro
+* **Liquids & Thickening:**
+    * 1 (14.5 oz) can diced tomatoes, undrained
+    * 2 cups beef or vegetable broth
+    * 1 tbsp lemon juice
+    * 1 tbsp tomato paste
+    * 1 tsp brown sugar
+    * 1/4 cup water
+    * 1 tbsp cornstarch mixed with 2 tbsp cold water (for thickening)
+
+**Instructions:**
+
+1. **Brown the protein:** In a large pot or Dutch oven, heat 1 tbsp of oil over medium-high heat. Brown the lamb or beef in batches, then remove and set aside. If using tofu, lightly brown it in the same pan.
+2. **Sauté aromatics:** Add the remaining oil to the pot. Sauté the onion, garlic, ginger, fenugreek seeds, and cardamom powder until fragrant (about 5 minutes). 
+3. **Add spices & vegetables:** Stir in the berbere spice blend and cook for 1 minute more. Add the carrots, potatoes, green beans, and red bell pepper. Cook for another 5 minutes, stirring occasionally.
+4. **Simmer with liquids:** Pour in the diced tomatoes, broth, lemon juice, tomato paste, brown sugar, and water. Bring to a boil, then reduce heat to low, cover, and simmer for 30 minutes, or until the vegetables are tender.
+5. **Finish & thicken:** Stir in the browned protein (or tofu). Simmer uncovered for another 10 minutes to allow flavors to meld.  In a small bowl, whisk together the cornstarch slurry and add it to the stew. Cook until thickened, about 2 minutes. 
+6. **Garnish & serve:** Stir in the cilantro. Serve hot with injera (Ethiopian flatbread) for scooping.
+
+
+"
+44,1,4,2,2953,llama2:13b,Stew,Islamic diet,"
+Sure! Here's a recipe for Stew using elements of Islamic diet cuisine:
+
+Ingredients:
+
+* 1 lb boneless, skinless lamb or beef, cut into small pieces (halal)
+* 2 medium onions, chopped (optional: may substitute with shallots or scallions)
+* 3 cloves garlic, minced (optional: may substitute with 1 teaspoon of garlic powder)
+* 2 medium carrots, peeled and chopped
+* 2 medium potatoes, peeled and chopped
+* 1 cup of brown lentils or yellow split peas (halal)
+* 2 tablespoons of tomato paste (optional: may substitute with 1 can of diced tomatoes)
+* 2 teaspoons of cumin powder
+* 1 teaspoon of coriander powder (optional: may substitute with ground cardamom or ground ginger)
+* 1/2 teaspoon of turmeric powder (optional: may substitute with paprika)
+* 1/2 teaspoon of black pepper
+* Salt, to taste
+* 4 cups of beef broth (halal) or vegetable broth (vegetarian)
+* 2 tablespoons of olive oil or ghee (optional: may substitute with coconut oil or avocado oil)
+* Fresh parsley or cilantro, chopped (optional: for garnish)
+
+Instructions:
+
+1. In a large pot or Dutch oven, heat the olive oil or ghee over medium-high heat. Add the onions (or shallots or scallions) and cook until they are translucent and starting to caramelize.
+2. Add the garlic (or garlic powder) and cook for an additional 1-2 minutes, stirring constantly to prevent burning.
+3. Add the lamb or beef pieces and cook until they are browned on all sides.
+4. Add the cumin powder, coriander powder (optional), turmeric powder (optional), and black pepper. Stir well to combine.
+5. Add the carrots and potatoes, and stir to coat with the spice mixture.
+6. Pour in the beef broth or vegetable broth, and bring the mixture to a boil.
+7. Reduce heat to low, cover the pot, and simmer for 1-2 hours, or until the meat is tender and the vegetables are cooked through.
+8. Add the tomato paste (optional) and stir well to combine.
+9. Season with salt and black pepper to taste.
+10. Garnish with chopped parsley or cilantro, if desired.
+11. Serve hot over rice or with naan bread or pita.
+
+Note: This recipe can be adapted to vegetarian or vegan dietary preferences by substituting the meat with tofu, tempeh, or other plant-based protein sources, and using vegetable broth instead of beef broth. Additionally, the spices and herbs used in this recipe are commonly found in Islamic cuisine and are acceptable for halal dietary standards."
+44,2,6,2,4553,gpt-4o-mini,Stew,Islamic diet,"Sure! Here’s a recipe for a hearty Islamic-inspired stew that incorporates Halal ingredients and flavors commonly found in Islamic cuisine.
+
+**Ingredients:**
+- 1 lb (450g) Halal beef, cut into bite-sized pieces
+- 1 large onion, finely chopped
+- 3 cloves garlic, minced
+- 2 medium carrots, diced
+- 2 medium potatoes, diced
+- 1 bell pepper, chopped
+- 1 can (14 oz) diced tomatoes
+- 4 cups beef broth (ensure it's Halal)
+- 1 cup chickpeas (canned or cooked)
+- 2 teaspoons ground cumin
+- 1 teaspoon ground coriander
+- 1 teaspoon ground turmeric
+- 1 teaspoon paprika
+- ½ teaspoon ground black pepper
+- 2 tablespoons olive oil or ghee
+- Salt to taste
+- Fresh cilantro or parsley for garnish
+- Lemon wedges for serving
+
+**Instructions:**
+1. In a large pot, heat the olive oil or ghee over medium heat. Add the chopped onion and sauté until translucent.
+2. Stir in the minced garlic and cook for an additional minute until fragrant.
+3. Add the beef pieces to the pot, browning them on all sides.
+4. Once the beef is browned, add the diced carrots, potatoes, and bell pepper. Stir to combine.
+5. Sprinkle in the ground cumin, coriander, turmeric, paprika, black pepper, and salt. Mix well to coat the vegetables and beef with the spices.
+6. Pour in the diced tomatoes and beef broth, bringing the mixture to a boil.
+7. Reduce the heat to low, cover the pot, and let the stew simmer for about 1.5 to 2 hours, or until the beef is tender.
+8. In the last 10 minutes of cooking, add the chickpeas to the stew, stirring to combine.
+9. Taste and adjust seasoning if necessary.
+10. Serve hot, garnished with fresh cilantro or parsley and lemon wedges on the side for an added zest.
+
+Enjoy your delicious and nutritious Halal stew!"
+45,1,8,1,1354,gemma2:9b,Stew,Jain diet,"## Jain-Style Vegetable Stew
+
+This recipe adapts a classic stew into a delicious and compassionate Jain meal, focusing on fresh vegetables, aromatic spices, and minimal processing. 
+
+
+**Ingredients:**
+
+* **Vegetables:**
+    * 1 large onion, chopped
+    * 2 cloves garlic, minced
+    * 1 inch ginger, grated
+    * 2 carrots, peeled and diced
+    * 2 potatoes, peeled and cubed
+    * 1 cup green beans, trimmed and halved
+    * 1 cup cauliflower florets
+    * 1 cup sweet potato, peeled and diced
+    * 1/2 cup peas (fresh or frozen)
+    * 1 can (14.5 oz) diced tomatoes, undrained
+* **Spices:**
+    * 1 tablespoon cumin seeds
+    * 1 teaspoon coriander powder
+    * 1/2 teaspoon turmeric powder
+    * 1/4 teaspoon cayenne pepper (optional)
+    * Salt to taste
+    * Fresh cilantro, chopped for garnish
+
+* **Liquid:**
+    * 3 cups vegetable broth 
+
+**Instructions:**
+
+1. Heat a large pot or Dutch oven over medium heat. Add cumin seeds and let them splutter for about 30 seconds.
+2. Add onion, garlic, and ginger and sauté until softened, about 5 minutes.
+3. Stir in carrots, potatoes, green beans, cauliflower, and sweet potato. Cook for another 5 minutes, stirring occasionally.
+4. Add coriander powder, turmeric powder, cayenne pepper (if using), salt, and diced tomatoes. Mix well and cook for 2 minutes.
+5. Pour in vegetable broth and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes or until vegetables are tender.
+6. Stir in peas during the last 5 minutes of cooking.
+7. Garnish with fresh cilantro and serve hot with rice, roti, or quinoa.
+
+
+
+**Jain Considerations:**
+
+* This recipe avoids any animal products, making it strictly vegetarian and suitable for Jain dietary practices.
+* Ensure all ingredients are sourced from reliable suppliers who adhere to Jain principles. 
+
+
+Enjoy your flavorful and compassionate Jain-style vegetable stew!"
+45,2,2,1,2154,mistral:7b,Stew,Jain diet," ingredients:
+- 2 tbsp of Jowar (Sorghum) seeds for tempering,
+- 2 tbsp of Rai (Mustard) seeds,
+- 1 tbsp of Hing (Asafoetida),
+- 1 tbsp of Turmeric powder (Haldi),
+- 1 tbsp of Red Chili powder (Lal Mirch),
+- 1 tbsp of Fenugreek seeds (Methi),
+- 2 tbsp of oil (Sesame or any preferred oil),
+- 1 kg Piece of Meat (Chicken, Mutton or any preferred meat), cut into cubes,
+- 2 cups of Water,
+- 1 cup of Split Peas (Chana Dal), soaked and drained,
+- 1 cup of Mung beans (Mung dal), soaked and drained,
+- 3 tbsp of Tamarind paste or 1 tbsp of Imli powder (Tamarind powder),
+- Salt to taste,
+- 1 tbsp of Jaggery (Gur) or sugar,
+- 1 tsp of Ajwain seeds for tempering,
+- 1 cup of finely chopped Vegetables like Carrots, Beans, Peas and Cauliflower.
+
+instructions:
+1. Heat oil in a large pot over medium heat. Add 2 tbsp Jowar seeds and roast until they turn golden brown. Remove from the pan and set aside.
+2. In the same pot, add Rai seeds, Hing and Turmeric powder. Let them splutter and sizzle for few seconds.
+3. Next, add Red Chili powder, Fenugreek seeds and stir for a minute.
+4. Add meat cubes and fry until they turn brown on all sides. Drain excess oil if required.
+5. Add water, soaked and drained Split Peas, Mung beans and vegetable chopping. Bring to a boil.
+6. Once the stew comes to a boil, add Tamarind paste or Imli powder and Salt to taste. Stir well.
+7. Lower the heat, cover the pot and let it simmer for about 45 minutes or until the beans and peas are soft.
+8. In a small pan, heat oil and temper with Ajwain seeds. Once they splutter, remove from heat and add Jaggery. Let it melt and mix well.
+9. Pour this tempering over the stew just before serving. Mix gently.
+10. Taste and adjust seasoning if required.
+11. Serve hot with Rice or flatbreads like Roti or Thepla."
+46,1,2,2,2193,mistral:7b,Pizza,Islamic diet," ingredients:
+- 1 (12-inch) organic whole wheat pizza dough, preferably freshly made or store-bought
+- 1 cup tomato sauce, homemade or canned, without garlic or onion
+- 1.5 cups shredded halal certified cheese blend
+- 1/2 cup sliced olives
+- 1/4 cup thinly sliced red bell pepper
+- 1/4 cup thinly sliced green bell pepper
+- 1/3 cup crumbled feta cheese
+- 1 tablespoon extra-virgin olive oil
+- Salt to taste
+- Optional: Italian seasoning or dried oregano, for taste
+
+instructions:
+1. Preheat your oven to its highest temperature (usually around 475°F - 500°F/246°C - 260°C) and lightly grease a baking sheet with the olive oil.
+2. Roll out the pizza dough on a floured surface until it reaches your desired thickness. Transfer it to the prepared baking sheet, gently pressing it down to the edges.
+3. Brush the entire pizza crust with the remaining olive oil. Spread the tomato sauce over the crust, leaving a small border for the edges.
+4. Sprinkle the shredded halal certified cheese blend evenly on top of the tomato sauce.
+5. Arrange the sliced olives and bell peppers on top of the pizza, distributing them evenly.
+6. Dot the pizza with crumbled feta cheese.
+7. Lightly sprinkle a pinch of salt over the vegetables and cheese. If desired, add Italian seasoning or dried oregano for additional flavor.
+8. Bake the pizza in your preheated oven for 10-12 minutes, until the edges are golden brown and the cheese is bubbly and melted.
+9. Remove the pizza from the oven and let it cool slightly before slicing it into pieces to serve. Enjoy!"
+46,2,8,2,2993,llama2:13b,Pizza,Islamic diet,"
+Sure! Here is a recipe for Halal Pizza that incorporates elements of Islamic dietary cuisine:
+
+Ingredients:
+
+* 1 whole wheat pita bread or naan (preferably made with halal ingredients)
+* 1/2 cup tomato sauce (made with halal ingredients such as tomatoes, onions, garlic, and olive oil)
+* 1/2 cup low-fat mozzarella cheese (made from the milk of halal animals such as cows or goats)
+* 1/4 cup chopped fresh basil leaves (optional)
+* 1/4 teaspoon black pepper
+* 1 tablespoon olive oil
+
+Instructions:
+
+1. Preheat the oven to 400°F (200°C).
+2. Roll out the pita bread or naan into a thin circle, about 1/8 inch thick.
+3. Spread the tomato sauce over the dough, leaving a 1/2 inch border around the edges.
+4. Sprinkle the low-fat mozzarella cheese over the tomato sauce.
+5. Place the chopped fresh basil leaves on top of the cheese, if using.
+6. Season with black pepper and drizzle with olive oil.
+7. Bake in the preheated oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.
+8. Remove from the oven and allow to cool for a few minutes before slicing and serving.
+
+This Halal Pizza recipe incorporates elements of Islamic dietary cuisine by using whole wheat pita bread or naan, low-fat mozzarella cheese made from the milk of halal animals, and fresh basil leaves which are all permissible under Islamic dietary laws. The use of olive oil and black pepper is also acceptable as they are considered halal ingredients. This recipe is a healthier version of traditional pizza as it uses whole wheat bread and low-fat cheese, making it a great option for those looking to follow an Islamic diet while still enjoying their favorite foods."
+47,1,5,0,673,gemma2:2b,Crepes,Islamic diet,"## Islamic-Style Crepes Recipe
+
+**Ingredients:**
+
+*  **Dry Ingredients:**
+    *  1 cup all-purpose flour
+    *  1 teaspoon baking powder
+    *  ½ teaspoon salt
+    *  ¼ teaspoon ground cinnamon (optional)
+*  **Wet Ingredients:**
+    * 2 cups milk
+    * ½ cup plain yogurt
+    * 2 large eggs
+    * 2 tablespoons sugar
+    * 1 tablespoon melted ghee or olive oil for mixing
+
+**Instructions:**
+
+1. **Mix Dry Ingredients:** In a large bowl, combine flour, baking powder, salt, and optional cinnamon.
+2. **Combine Wet Ingredients:** In a separate bowl, whisk together milk, yogurt, eggs, and sugar until well blended. 
+3. **Add wet ingredients to dry:** Slowly add the wet ingredient mixture to the dry ingredient mixture while stirring constantly. Use your hand or a spatula to incorporate all the ingredients into a smooth batter. 
+4. **Let Rest:** Cover the bowl with a damp cloth or plastic wrap and let the batter rest for at least 30 minutes. This allows the gluten to relax, resulting in softer crepes. 
+5. **Heat Pan:** Heat a nonstick frying pan or crepe pan over medium-low heat. You can use a small amount of ghee or olive oil to ensure the pan is well coated. 
+6. **Pour Batter:** Once the pan is heated, pour about ¼ cup of batter into the center of the pan, tilting it gently to spread a thin layer of batter. 
+7. **Cook Crepes:** Cook the crepe for about 1-2 minutes, or until bubbles appear on the surface and edges start to turn golden brown. 
+8. **Flip & Finish:** Carefully flip the crepe using a spatula or palette knife and cook the other side for another 30 seconds to 1 minute, until it is lightly browned.  
+9. **Serve:** Serve hot with your favorite fillings like sweet options (jam, fruit compote) and savory options (cheese, vegetables).
+
+**Note:** The crepe batter can be stored in an airtight container in the refrigerator for up to three days.
+
+
+Enjoy this delicious and healthy Islamic-style creper! 
+"
+47,2,5,0,2273,mistral:7b,Crepes,Islamic diet," Sure! Here's a recipe for Islamic diet-friendly Crepes using Halal ingredients.
+
+ingredients:
+- 1 1/2 cups all-purpose flour (make sure it's labeled Halal)
+- 2 cups milk (Halal, preferably organic and from pasture-raised cows)
+- 4 large eggs (from free-range, Halal certified chickens)
+- 2 tbsp unsalted butter, melted (Halal)
+- 1 tsp salt
+- 2 tbsp sugar (preferably raw or organic cane sugar)
+- 2 tbsp corn or vegetable oil for frying
+
+instructions:
+1. In a large bowl, whisk together the flour and milk until smooth. Add the eggs, one at a time, stirring to incorporate each one before adding the next. Stir in the melted butter, salt, and sugar. Let batter rest for 30 minutes at room temperature.
+2. Heat a 9-inch crepe pan or skillet over medium heat. Brush with oil. Using a ladle or cup measure, pour enough batter (about 1/4 cup) to thinly coat the bottom of the pan, tilting and swirling as necessary to spread evenly.
+3. Cook for about 1-2 minutes until edges start to lift and the bottom is lightly browned. Gently flip over with a spatula and cook for another 1-2 minutes on the other side. Remove from pan and repeat with remaining batter, brushing pan with oil as needed between each crepe.
+4. Crepes can be served plain or filled with various Halal ingredients such as bananas, nutella, honey, dates, chicken, spinach, cheese, or other vegetables. Enjoy!"
+48,1,4,2,1513,gemma2:9b,Lasagna,Islamic diet,"## Halal Lasagna with a Middle Eastern Twist 
+
+This recipe takes the classic comfort of lasagna and gives it an Islamic dietary-friendly twist with flavorful Middle Eastern spices and ingredients.
+
+**Ingredients:**
+
+* **Meat Sauce:**
+    * 1 lb ground lamb (or beef)
+    * 1 large onion, chopped
+    * 2 cloves garlic, minced
+    * 1 tbsp olive oil
+    * 1 tsp cumin powder
+    * 1 tsp coriander powder
+    * ½ tsp turmeric powder
+    * ¼ tsp cinnamon powder
+    * Pinch of saffron threads (optional)
+    * 1 (28 oz) can crushed tomatoes
+    * 1 (15 oz) can tomato sauce
+    * Salt and pepper to taste
+* **Cheese Filling:**
+    * 15 oz ricotta cheese
+    * 1 egg
+    * ½ cup grated Parmesan cheese (optional, ensure it's halal certified)
+    * ¼ tsp nutmeg powder
+    * Salt and pepper to taste
+* **Other:**
+    * 9 lasagna noodles (ensure they are Halal certified)
+    * ½ cup water
+
+**Instructions:**
+
+1.  **Prepare the Meat Sauce:** Heat olive oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes. Stir in garlic, cumin, coriander, turmeric, cinnamon, and saffron (if using). Cook for 1 minute more.
+2.  Add ground lamb to the pot and cook, breaking it up with a spoon, until browned. Drain any excess fat.
+3. Stir in crushed tomatoes, tomato sauce, salt, and pepper. Bring to a simmer, reduce heat to low, and cook for 30 minutes, stirring occasionally.
+4. **Prepare the Cheese Filling:** In a medium bowl, combine ricotta cheese, egg, Parmesan cheese (if using), nutmeg, salt, and pepper. Mix well.
+5. **Assemble the Lasagna:** Preheat oven to 375°F (190°C). Lightly grease a 9x13 inch baking dish.
+6. Spread a thin layer of meat sauce in the bottom of the prepared dish. Top with 3 lasagna noodles, overlapping slightly if necessary.
+7. Spread half of the cheese filling over the noodles. Top with another layer of meat sauce. Repeat layers with remaining noodles, cheese filling, and meat sauce.  
+8. **Bake:** Cover the baking dish tightly with aluminum foil and bake for 30 minutes. Remove foil and bake for an additional 15-20 minutes, or until bubbly and golden brown.
+9. Let lasagna rest for 10-15 minutes before cutting and serving.
+
+ **Tips:**
+
+*  For a richer flavor, add a tablespoon of tomato paste to the meat sauce. 
+*  You can substitute ground beef or chicken for lamb if preferred. 
+*  To make this dish vegetarian, omit the meat and add sautéed vegetables like zucchini, eggplant, and bell peppers to the meat sauce.
+
+ Enjoy your delicious and halal lasagna!
+
+
+"
+48,2,6,2,3113,llama2:13b,Lasagna,Islamic diet,"
+Sure, here is a recipe for Islamic diet lasagna, incorporating the elements of Islamic diet cuisine:
+
+Ingredients:
+
+* 8-10 lasagna noodles (made from halal ingredients)
+* 2 cups of lamb or beef mince (preferably grass-fed and hormone-free)
+* 1 onion, finely chopped
+* 2 cloves of garlic, minced
+* 1 cup of spinach, chopped
+* 1 cup of zucchini, grated
+* 1 cup of carrots, peeled and grated
+* 1/2 cup of tomato puree (made from halal ingredients)
+* 1/2 cup of plain yogurt (preferably full-fat and made from halal ingredients)
+* 1 egg, beaten
+* Salt and black pepper to taste
+* Olive oil for frying the onions and garlic
+* Fresh parsley, chopped (optional garnish)
+
+Instructions:
+
+1. Preheat your oven to 375 degrees Fahrenheit (190 degrees Celsius).
+2. Cook the lasagna noodles according to package instructions and set aside.
+3. In a large mixing bowl, combine the lamb or beef mince, onion, garlic, spinach, zucchini, carrots, tomato puree, yogurt, egg, salt, and black pepper. Mix well with your hands until just combined. Do not overmix.
+4. Heat a few tablespoons of olive oil in a large frying pan over medium heat. Add the onions and cook until softened and translucent, about 5 minutes. Add the garlic and cook for an additional 1-2 minutes.
+5. In a large baking dish, spread a thin layer of the meat mixture at the bottom of each lasagna noodle. Top with a layer of the onion and garlic mixture, followed by a layer of spinach and zucchini. Repeat this process until all ingredients have been used up, ending with a layer of spinach and zucchini on top.
+6. Cover the baking dish with aluminum foil and bake for 30-40 minutes or until the lasagna noodles are cooked through and the meat is tender.
+7. Remove the foil and bake for an additional 10-15 minutes or until the top layer of spinach and zucchini is lightly browned.
+8. Garnish with chopped fresh parsley, if desired.
+9. Serve hot and enjoy!
+
+This Islamic diet lasagna recipe incorporates the elements of Islamic diet cuisine by using halal ingredients, avoiding pork and alcohol, and using healthy fats like grass-fed lamb or beef mince and full-fat yogurt. The dish is also layered with vegetables like spinach, zucchini, and carrots to add variety and nutrients."
+49,1,9,1,2352,mistral:7b,Curry,Hindu diet," ingredients:
+1. Turmeric powder (Haldi), 1 tsp
+2. Cumin seeds (Jeera), 1 tsp
+3. Mustard seeds (Sarso), 1 tsp
+4. Fenugreek seeds (Methi dana), a pinch
+5. Curry leaves (Kadipatta), few
+6. Onion (Piyazu), 1, finely chopped
+7. Garlic (Lehsun), 3 cloves, minced
+8. Ginger (Adrak), 1 inch piece, minced
+9. Green chili (Hari Mirch), 2, slit
+10. Tomatoes (Tamatar), 2, chopped
+11. Turmeric powder (Haldi), ½ tsp
+12. Red Chili Powder (Lal Mirch), 1 tsp
+13. Coriander Powder (Dhania), 1 tbsp
+14. Garam Masala Powder, 1 tsp
+15. Salt (Namak), to taste
+16. Oil (Tel), 2 tbsp
+17. Water (Pani), as required
+18. Chickpeas (Chana), 1 cup, soaked and cooked
+19. Coconut milk (Nariyal ka doodh), ½ cup (optional)
+20. Fresh cilantro (Dhania pudina), chopped, for garnish
+
+instructions:
+1. Heat oil in a large pan over medium heat. Add cumin seeds and let them splutter.
+2. Next, add mustard seeds and fenugreek seeds. Once they start to pop, add turmeric powder and curry leaves.
+3. Sauté onion until it turns translucent. Add garlic, ginger, green chilies, and sauté for a minute.
+4. Add tomatoes, turmeric powder, red chili powder, coriander powder, salt, and cook until the oil separates from the tomatoes.
+5. Add cooked chickpeas to the pan and mix well with the masala.
+6. If using coconut milk, add it now and bring the curry to a gentle simmer. Cook for 2-3 minutes.
+7. Taste the curry and adjust seasoning if needed.
+8. Garnish with fresh cilantro and serve hot with steamed basmati rice or roti."
+49,2,1,1,3152,llama2:13b,Curry,Hindu diet,"
+Sure! Here is a Hindu diet cuisine-inspired curry recipe:
+
+Ingredients:
+
+* <<CurryLeaves>>,
+* <<GingerRoot>>,
+* <<Garlic>>,
+* <<Turmeric>>,
+* <<CuminSeeds>>,
+* <<CorianderSeeds>>,
+* <<RedChili Powder>>,
+* <<GaramMasala>>,
+* <<YellowMoongDal>>,
+* <<CoconutMilk>>,
+* <<VegetablesOfYourChoice>> (e.g., bell peppers, carrots, potatoes, green beans)
+
+Instructions:
+
+1. Start by heating oil in a large pan over medium heat. Add the curry leaves and let them sizzle for a few seconds before adding the ginger root, garlic, and turmeric.
+2. Saute the ginger root, garlic, and turmeric for a minute until they are fragrant.
+3. Add the cumin seeds, coriander seeds, red chili powder, and garam masala to the pan and saute for another minute until the spices are fragrant.
+4. Add the yellow moong dal to the pan and stir well to combine with the spices.
+5. Add the coconut milk to the pan and bring to a simmer.
+6. Reduce heat to low and let the curry simmer for 10-15 minutes or until the dal is cooked through and the flavors have melded together.
+7. Add your choice of vegetables (e.g., bell peppers, carrots, potatoes, green beans) to the pan and let them cook until they are tender.
+8. Season with salt to taste.
+9. Serve the curry hot over rice or with roti or naan.
+
+Enjoy your delicious Hindu diet cuisine-inspired curry!"
+50,1,5,0,753,gemma2:2b,Curry,Islamic diet,"##  Islamic-Inspired Chicken Curry Recipe  
+
+This recipe uses traditional Islamic dietary guidelines and focuses on natural ingredients with balanced flavors.  
+
+
+**Ingredients:**
+
+* **Chicken:** 1 lb boneless, skinless chicken thighs or breasts (cleaned)
+* **Onion:** 2 medium onions, chopped
+* **Tomato:** 1 large ripe tomato, chopped
+* **Ginger:** 1 inch piece of fresh ginger, peeled and grated
+* **Garlic:** 4-5 cloves of garlic, minced
+* **Green chilies:** 2-3 green chilies (adjust according to taste)
+* **Cumin seeds:** 1 tsp 
+* **Cinnamon stick:** 1 cinnamon stick
+* **Cloves:** 2 whole cloves
+* **Curry powder:** ½ tbsp (choose a mild variety like Garam Masala or Indian Curry Powder with limited chili)
+* **Tomato purée:** 1-2 tablespoons 
+* **Water:** 3 cups 
+* **Fresh cilantro:**  For garnish, chopped
+
+
+**Instructions:**
+
+1. **Marinate the chicken:** In a bowl, combine grated ginger, garlic, green chilies, and half of the cumin seeds with the chicken pieces and marinate for at least 30 minutes (up to overnight for deeper flavor). This allows the spices to infuse the meat thoroughly.
+2. **Prepare the curry base:**  In a large pot or Dutch oven, heat a tablespoon of oil over medium heat. Add cumin seeds, cinnamon stick, and cloves. When fragrant (about 30 seconds), add the chopped onion and sauté until softened and translucent (approximately 5 minutes).
+3. **Add the tomato:**  Stir in the chopped tomatoes and cook for another 2-3 minutes until they start to soften. Then, add in some water (1 cup) and allow it to simmer slightly until the oil separates from the bottom.
+4. **Bloom spices:** Add the remaining cumin seeds and a tablespoon of curry powder into the pot.  Stir well and let the spices bloom for about 30 seconds. Then, add the marinated chicken pieces to the pot and cook until browned on all sides (about 5 minutes). This helps to ensure even cooking.
+5. **Add tomatoes and water:** Pour in the tomato purée, remaining curry powder, and remaining half of the cumin seeds. Add the remaining water (2-3 cups),  and season with salt to taste. Let it simmer for about 20 minutes or until the chicken is cooked through and tender. Adjust spices according to your preference.
+6. **Serve:** Garnish the curry with fresh cilantro leaves and serve hot with steamed rice, naan bread, or any preferred accompaniment.
+
+
+
+**Notes:**
+
+* For those who prefer a slightly less spicy dish, use mild green chilies or remove some of them. 
+* Adjust the amount of water to achieve desired consistency in your curry. You may need more for a thinner consistency, or less for a thicker one.  
+* Always ensure the chicken is cooked thoroughly before consuming it. 
+
+
+Enjoy this flavorful and delicious Islamic-inspired Chicken Curry!  "
+50,2,5,0,2353,mistral:7b,Curry,Islamic diet," ingredients:
+- 2 lbs (1 kg) boneless and skinless chicken or plant-based alternative, cut into bite-size pieces
+- 3 tbsp (45 ml) coconut oil or olive oil
+- 1 large onion, finely chopped
+- 1-inch (2.5 cm) piece of ginger, grated
+- 4 cloves garlic, minced
+- 1-2 green chilies, sliced (optional for heat)
+- 1 tbsp (15 ml) garam masala powder
+- 1 tbsp (15 ml) ground cumin
+- 1 tbsp (15 ml) ground coriander
+- 1 tbsp (15 ml) turmeric
+- 2 tsp (10 ml) cayenne pepper or paprika for milder heat (adjust to taste)
+- 1 can (400 ml) coconut milk
+- Salt to taste
+- Freshly chopped cilantro for garnish
+- Basmati rice or flatbreads for serving
+
+instructions:
+1. Heat oil in a large pot over medium heat, then add onion and cook until softened and lightly browned (around 5 minutes).
+2. Add the grated ginger, minced garlic, and green chilies, if using, stirring frequently for about 1 minute or until aromatic. Be careful not to burn the garlic.
+3. Add in the garam masala powder, ground cumin, ground coriander, turmeric, and cayenne pepper (or paprika), stirring continuously for around 2 minutes or until fragrant.
+4. Gradually add the chicken pieces into the pot with the spice mix, coating them evenly. Cook for about 5 minutes on medium heat.
+5. Pour in the can of coconut milk and bring it to a gentle simmer. Reduce heat to low and allow the curry to cook undisturbed for around 20 minutes or until the chicken is cooked through and the flavors have melded together. Stir occasionally.
+6. Season with salt to taste, and garnish with chopped cilantro before serving over a bed of basmati rice or flatbreads. Enjoy!"
+51,1,7,1,3153,llama2:13b,Curry,Islamic diet,"
+Sure! Here's a recipe for Curry with Islamic dietary guidelines in mind:
+
+Ingredients:
+
+* 1 pound boneless, skinless chicken breast or thighs, cut into bite-sized pieces (halal)
+* 2 medium onions, chopped (optional: use sweet onions for a milder flavor) (halal)
+* 3 cloves garlic, minced (halal)
+* 1 teaspoon grated ginger (halal)
+* 1 tablespoon curry powder (halal)
+* 1/2 teaspoon ground cumin (halal)
+* 1/2 teaspoon ground coriander (halal)
+* 1/4 teaspoon turmeric powder (halal)
+* 1/4 teaspoon paprika (halal)
+* 1 can (14 oz) diced tomatoes, drained (halal)
+* 2 tablespoons vegetable oil or ghee (halal)
+* Salt and black pepper, to taste (halal)
+* 2 cups water or chicken broth (halal)
+* Fresh cilantro leaves, for garnish (halal)
+
+Instructions:
+
+1. In a large saucepan or Dutch oven, heat the oil or ghee over medium heat. Add the onions and cook until they are translucent and starting to brown, about 5 minutes.
+2. Add the garlic, ginger, curry powder, cumin, coriander, turmeric, and paprika to the saucepan, and cook for another minute, stirring constantly.
+3. Add the diced tomatoes, chicken, salt, and black pepper to the saucepan. Stir to combine, then pour in the water or chicken broth.
+4. Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.
+5. Taste and adjust the seasoning as needed.
+6. Serve the curry hot, garnished with fresh cilantro leaves.
+
+Note: You can use other protein sources such as lamb or tofu if you prefer. Additionally, you can adjust the level of spiciness to your liking by using more or less garlic and ginger, or by adding more or less curry powder."
+51,2,3,1,3953,llama3.1:8b,Curry,Islamic diet,"Here's a recipe for Islamic diet-friendly curry:
+
+**Islamic Diet Curry (Hindu Muslim Style)**
+
+This recipe is free from animal by-products, additives, and other non-halal ingredients, making it suitable for those following the principles of Halal cuisine.
+
+**Ingredients:**
+
+* 2 medium-sized onions, chopped
+* 3 cloves of garlic, minced
+* 1 tablespoon grated fresh ginger
+* 1 cup mixed vegetables (such as bell peppers, carrots, and potatoes), diced
+* 1 can (14 oz) of coconut milk
+* 1 teaspoon ground cumin
+* 1 teaspoon ground coriander
+* 1/2 teaspoon turmeric powder
+* Salt-free seasoning blend (see note)
+* Fresh cilantro leaves for garnish
+
+**Instructions:**
+
+1. Heat 2 tablespoons of ghee or vegetable oil in a large saucepan over medium heat.
+2. Add the chopped onions and sauté until they are translucent, about 5 minutes.
+3. Add the minced garlic and grated ginger; cook for another minute, stirring constantly to prevent burning.
+4. Add the mixed vegetables and stir well. Cook for 5-7 minutes or until they begin to soften.
+5. Stir in the cumin, coriander, turmeric powder, and salt-free seasoning blend. Cook for 1-2 minutes, allowing the spices to infuse into the mixture.
+6. Pour in the coconut milk and bring the curry to a simmer.
+7. Reduce the heat to low and let the curry cook, stirring occasionally, until it reaches your desired consistency. This should take about 15-20 minutes.
+8. Taste and adjust the seasoning as needed (remember that salt-free seasoning blends can be quite potent).
+9. Garnish with fresh cilantro leaves before serving.
+
+**Note:** Salt-free seasoning blend is a mixture of herbs and spices used to add flavor without adding salt. You can make your own blend using ingredients like cumin, coriander, turmeric, cinnamon, cardamom, and black pepper in the right proportions.
+
+**Halal Note:** Please ensure that the ghee or vegetable oil used is free from animal by-products and additives. Also, check the ingredient label of the coconut milk to confirm it's halal-certified."
+52,1,6,1,1554,gemma2:9b,Curry,Jain diet,"## Jain-Style Vegetable Curry 
+
+**Ingredients:**
+
+* 1 tbsp oil (refined sunflower or coconut)
+* 1 tsp cumin seeds
+* 1 inch ginger, grated
+* 2 cloves garlic, minced
+* 1 large onion, finely chopped
+* 1 green chili, finely chopped (optional)
+* 1 cup mixed vegetables (carrots, potatoes, peas, cauliflower florets, green beans)
+* 1/2 tsp turmeric powder
+* 1 tsp coriander powder
+* 1/2 tsp red chili powder (adjust to taste)
+* 1/4 cup chopped cilantro
+* Salt to taste
+* Water as needed
+
+**Instructions:**
+
+1. Heat the oil in a large pan over medium heat. Add cumin seeds and let them splutter.
+2. Add grated ginger and minced garlic. Sauté for about 30 seconds until fragrant.
+3. Stir in chopped onion and green chili (if using) and cook until onions turn translucent, about 5 minutes.
+4. Add mixed vegetables and sauté for 2-3 minutes.
+5. Sprinkle turmeric powder, coriander powder, and red chili powder. Mix well and cook for another minute.
+6. Add salt and 1 cup of water. Cover the pan and simmer until the vegetables are tender, about 15-20 minutes. Stir occasionally to prevent sticking.
+7. Garnish with chopped cilantro before serving.
+
+**Jain Variations:**
+
+* Use only vegan oil like refined sunflower or coconut. Avoid ghee or butter.
+* Ensure all vegetables are thoroughly washed and free of any insects or traces of animal products.
+* For a creamier consistency, add a tablespoon of besan (gram flour) while sautéing the onions and garlic. 
+
+
+Enjoy this flavorful Jain-style vegetable curry with steamed rice or roti!"
+52,2,4,1,3954,llama3.1:8b,Curry,Jain diet,"Here's a Jain-inspired version of curry:
+
+**Jain-style Curry**
+
+**Ingredients:**
+* 2 tablespoons of sesame oil (to avoid animal-derived products)
+* 1 onion, diced
+* 3 cloves of garlic, minced
+* 2 medium-sized tomatoes, diced (using fruit-based tomato varieties like Roma or Plum)
+* 1 teaspoon of ground turmeric
+* 1 teaspoon of ground cumin
+* 1 teaspoon of ground coriander
+* 1/2 teaspoon of ground cinnamon
+* 1/2 teaspoon of ground cardamom
+* Salt, to taste (using salt-free seasoning blends for a non-violent option)
+* 2 tablespoons of vegan curd or yogurt (optional)
+
+**Instructions:**
+
+1. Heat the sesame oil in a pan over medium heat.
+2. Add the onion and sauté until it's translucent and slightly browned.
+3. Add the garlic, turmeric, cumin, coriander, cinnamon, and cardamom to the pan and stir well.
+4. Cook for about 1 minute, allowing the spices to infuse their flavors.
+5. Add the diced tomatoes to the pan and sauté until they start to break down.
+6. Reduce the heat to low and simmer for 10-15 minutes or until the curry reaches your desired consistency.
+7. Season with salt-free seasoning blends to taste (if using).
+8. If adding vegan curd or yogurt, mix it in towards the end of cooking time to create a creamy texture.
+
+**Jain Dietary Considerations:**
+
+* The use of sesame oil replaces ghee, which is often used in traditional curry recipes.
+* Tomatoes are used as a substitute for meats, allowing for a flavorful and textured dish without animal-derived products.
+* Salt-free seasoning blends minimize the risk of harming microorganisms or causing injury to sentient beings.
+
+Note that Jain cuisine emphasizes vegetarianism and non-violence towards all living beings, so this recipe is adapted accordingly."
+53,1,3,2,2354,mistral:7b,Curry,Jain diet," ingredients:
+- 2 tbsp Jasmine Rice (soaked for 30 minutes) or Quinoa (rinsed) - optional, for serving
+- 1 tbsp Sesame Oil
+- 1 cup Chickpeas (cooked), or other Jain-friendly legumes like Moong Beans or Lentils
+- 2 cups Mixed Vegetables (cut into bite-sized pieces): Potato, Carrot, Cauliflower, Zucchini, Green Bell Pepper
+- 1 cup Tomatoes (chopped)
+- 1 Onion (finely chopped)
+- 3 Garlic Cloves (minced)
+- 1 inch Ginger (grated)
+- 2 Green Chillies (finely sliced, adjust for spiciness)
+- 1 tbsp Cumin Seeds
+- 1 tsp Ground Turmeric
+- 1 tsp Ground Coriander
+- 1 tsp Ground Cumin
+- 1 tsp Ground Garam Masala
+- Salt to taste
+- 2 cups Water or Vegetable Broth
+- Fresh Coriander leaves for garnish (optional)
+- Lemon Wedges for serving (optional)
+
+instructions:
+1. In a large pot, heat sesame oil over medium heat. Add cumin seeds and cook until they start to splutter.
+2. Sauté onions, garlic, ginger, and green chillies until softened.
+3. Add chickpeas or other legumes and stir well. Cook for about 5 minutes.
+4. Add turmeric, coriander, cumin, and garam masala, stirring continuously to coat vegetables evenly.
+5. Add mixed vegetables, tomatoes, salt, and water or vegetable broth to the pot. Stir well.
+6. Bring the curry to a boil then lower heat and simmer until all vegetables are tender. This may take about 20 minutes depending on the chosen vegetables.
+7. Taste the curry and adjust seasonings if necessary.
+8. Serve the curry with cooked Jasmine Rice or Quinoa, garnished with fresh coriander leaves and lemon wedges for added flavor.
+9. Enjoy your delicious Jain-friendly Curry!"
+53,2,7,2,4754,gpt-4o-mini,Curry,Jain diet,"Certainly! Here’s a Jain-inspired curry recipe that respects the principles of Jain cuisine, which avoids root vegetables and certain ingredients.
+
+### Ingredients:
+- 1 cup chopped mixed vegetables (bell peppers, zucchini, peas, and green beans)
+- 1 cup coconut milk
+- 1 tablespoon oil (preferably sunflower or mustard oil)
+- 1 teaspoon cumin seeds
+- 1 teaspoon mustard seeds
+- 1 teaspoon turmeric powder
+- 1 tablespoon coriander powder
+- 1/2 teaspoon red chili powder (adjust to taste)
+- Salt to taste
+- 1 tablespoon lemon juice
+- Fresh cilantro for garnish
+
+### Instructions:
+1. Heat the oil in a pan over medium heat. Add the cumin seeds and mustard seeds, and let them sizzle until they start to pop.
+2. Add the chopped mixed vegetables to the pan and sauté for about 5 minutes until they are slightly tender.
+3. Stir in the turmeric powder, coriander powder, red chili powder, and salt, mixing well to coat the vegetables.
+4. Pour in the coconut milk and stir to combine. Bring the mixture to a gentle simmer.
+5. Cook for an additional 10-15 minutes, allowing the vegetables to soften and the flavors to meld together.
+6. Once cooked, remove from heat and stir in the lemon juice for added freshness.
+7. Garnish with fresh cilantro before serving.
+
+Enjoy your Jain-inspired curry with rice or flatbread!"
+54,1,8,1,2393,mistral:7b,Salad,Islamic diet," ingredients:
+- 2 cups of organic mixed salad greens
+- 1 medium-sized ripe tomato, chopped
+- 1 cucumber, sliced or chopped
+- 1/2 cup of cooked chickpeas (soaked and cooked in water)
+- 1/2 cup of feta cheese (substitute with halal labneh or vegan alternative)
+- 1/4 cup of chopped red onion
+- 1/4 cup of Kalamata olives
+- 3 tablespoons of extra virgin olive oil
+- 2 tablespoons of freshly squeezed lemon juice
+- Salt and pepper to taste
+- Optional: dates, figs or dried apricots for garnish
+
+instructions:
+1. In a large bowl, combine mixed salad greens, chopped tomato, sliced cucumber, cooked chickpeas, crumbled feta cheese (or labneh), red onion, and Kalamata olives.
+2. In a small bowl, whisk together extra virgin olive oil, freshly squeezed lemon juice, salt, and pepper to create the dressing. Taste for seasoning and adjust as needed.
+3. Gently toss salad ingredients with the dressing until evenly coated.
+4. Add garnish items such as dates, figs, or dried apricots on top of the salad.
+5. Serve immediately and enjoy a refreshing Islamic diet-friendly salad!"
+54,2,2,1,3193,llama2:13b,Salad,Islamic diet,"
+Certainly! Here is a recipe for a delicious and healthy Islamic diet-inspired salad:
+
+Ingredients:
+
+* <<ingredient1>>: Chopped romaine lettuce (or any other leafy greens such as spinach or kale)
+* <<ingredient2>>: Sliced cucumbers
+* <<ingredient3>>: Cherry tomatoes, halved
+* <<ingredient4>>: Chopped red onions
+* <<ingredient5>>: Sliced carrots
+* <<ingredient6>>: Chopped apples (optional)
+* <<ingredient7>>: Almonds or other nuts (optional)
+* <<ingredient8>>: Raisins (optional)
+* <<ingredient9>>: Lemon juice and olive oil dressing (see below for recipe)
+
+Instructions:
+
+1. In a large bowl, combine the chopped romaine lettuce, sliced cucumbers, cherry tomatoes, chopped red onions, and sliced carrots.
+2. In a separate bowl, whisk together the lemon juice and olive oil to make the dressing. Pour the dressing over the salad and toss to combine.
+3. If desired, top the salad with chopped apples, almonds or other nuts, and raisins.
+4. Serve immediately and enjoy!
+
+Lemon Juice and Olive Oil Dressing:
+
+* <<ingredient1>>: 2 tablespoons olive oil
+* <<ingredient2>>: 2 tablespoons lemon juice
+* <<ingredient3>>: Salt and pepper to taste
+
+Instructions:
+
+1. Whisk together the olive oil, lemon juice, salt, and pepper in a small bowl until well combined.
+2. Pour the dressing over the salad and toss to combine.
+
+This salad is a delicious and healthy combination of Islamic diet-inspired ingredients, including leafy greens, fresh vegetables, nuts, and dried fruits. The lemon juice and olive oil dressing adds a tangy and flavorful touch to the salad, while the chopped apples, almonds or other nuts, and raisins provide additional texture and sweetness. Enjoy!"
+55,1,6,1,2395,mistral:7b,Salad,Kosher," ingredients:
+- Romaine lettuce (certified kosher), 5 oz (140g)
+- Cherry tomatoes (certified kosher), 1 pint (500g)
+- Cucumber (certified kosher), 1 large
+- Red onion (certified kosher), 1 medium
+- Kidney beans (certified kosher, canned), 1 can (15 oz/425g) drained and rinsed
+- Olive oil (certified kosher), 2 tbsp
+- Apple cider vinegar (certified kosher), 2 tbsp
+- Salt (kosher), to taste
+- Black pepper (freshly ground), to taste
+
+instructions:
+1. Rinse and dry the lettuce, tear it into bite-sized pieces, and place in a large salad bowl.
+2. Cut the cherry tomatoes in half and add them to the bowl with the lettuce.
+3. Peel the cucumber, slice it lengthwise, remove the seeds (optional), and cut into half moons or slices; add to the salad.
+4. Thinly slice the red onion and rinse under cold water to soften its bite; add to the salad.
+5. Drain and rinse the kidney beans and add them to the salad.
+6. In a small bowl, whisk together olive oil and apple cider vinegar. Drizzle over the salad and toss gently to combine.
+7. Season the salad with salt and freshly ground black pepper to taste. Serve immediately for best results. Enjoy your kosher salad!"
+55,2,4,1,3195,llama2:13b,Salad,Kosher,"
+Sure! Here is a recipe for a Kosher salad:
+
+Ingredients:
+
+* 2 cups mixed greens (such as romaine, spinach, and arugula)
+* 1 cup cherry tomatoes, halved
+* 1 cup cucumber, sliced
+* 1/2 cup red onion, thinly sliced
+* 1/2 cup crumbled feta cheese (dairy or vegetarian option)
+* 1/4 cup chopped fresh parsley
+* 1/4 cup chopped fresh mint
+* 2 tablespoons olive oil
+* 1 tablespoon lemon juice
+* Salt and pepper to taste
+
+Instructions:
+
+1. In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, red onion, and feta cheese (if using).
+2. In a small bowl, whisk together the olive oil, lemon juice, salt, and pepper to make the dressing.
+3. Drizzle the dressing over the salad and toss to combine.
+4. Sprinkle the chopped parsley and mint over the top of the salad and serve immediately.
+
+This salad is a delicious and healthy option for any meal, and it meets all the requirements of Kosher cuisine by using only dairy or vegetarian ingredients and avoiding any non-Kosher ingredients or cooking methods. Enjoy!"
